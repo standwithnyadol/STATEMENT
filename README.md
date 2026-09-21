@@ -34,7 +34,7 @@ Structural racism does not only harm people directly. It teaches them that namin
 
 **We believe in shared values.** From temporary visa holders to new citizens, every person moving here is required to formally commit to Australian values. Importantly, the government’s own citizenship framework clarifies these values - such as respect for the dignity of the individual, racial equality, mutual respect, tolerance, compassion, and equality of opportunity - and presents these as values that operate within a diverse society. They are not defined by one ethnicity, religion, or ancestry. In this heated debate, we must remember that commitment and honour it with equal respect.
 
-##What we ask of others
+## What we ask of others
 
 **Media and commentators:** Verify the record. Report on what she has said, not on rumour or on her family. Be vigilant with sources, and be clear about the difference between reporting and campaigning.
 **Political and community leaders:** Model the debate you want to see. Challenge her arguments if you disagree, and be equally clear in condemning abuse and dehumanising rhetoric.
@@ -49,3 +49,9 @@ Thank you for your clarity, your courage and the cost they have carried.
 You do not stand alone.
 
 #WeStandWithNyadol
+
+## Sign the statement
+
+<iframe 
+  src="https://tally.so/embed/68qGpN?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" 
+  width="100%" 
