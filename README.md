@@ -52,6 +52,4 @@ You do not stand alone.
 
 ## Sign the statement
 
-<iframe 
-  src="https://tally.so/embed/68qGpN?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" 
-  width="100%" 
+<iframe src="https://tally.so/embed/68qGpN?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" width="100%" height="1200" style="border:none;"></iframe>
