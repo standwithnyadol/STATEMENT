@@ -56,3 +56,12 @@ You do not stand alone.
 ## Sign the statement
 
 [Click here to sign the statement](https://tally.so/r/68qGpN)
+
+
+## Signatories
+
+1. Mariam Veiszadeh, DEI Executive & Founder Islamophobia Register Australia
+2. Emem Udo, Lawyer
+3. Mibenge Nsenduluka
+4. Suresh Rajan
+5. 
