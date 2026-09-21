@@ -6,7 +6,7 @@ Nyadol is an accomplished lawyer, writer, speaker, OAM recipient and human right
 
 We have no interest in settling every argument in that debate. We are writing because of the negative commentary and backlash that has been received in response to her comments. The response, on media, both mainstream and on social media raises serious questions about who is allowed to speak about challenging issues in this country, and on what terms.
 
-**When the debate becomes about people**
+## When the debate becomes about people
 
 Australia's migration debate has been reduced to numbers: a fixation on net overseas migration, and migrants being framed as the cause of long standing issues with housing supply and infrastructure pressures. While these raise legitimate questions, they also warrant serious policy responses, backed by data and evidence. Cost of living pressures, housing supply, and a sense that some systems are not working, deserve measured debates and real data that then inform policy responses. They should not be redirected, as they so often are, towards migrants and refugees themselves, as convenient scapegoats.
 
@@ -18,7 +18,7 @@ We have seen time and again when First Nations, refugees and members of communit
 
 Belonging is treated as a loan, repaid through performance and silence. The moment people stop performing in a grateful manner,  and start naming what is broken, the door quietly closes.
 
-**What we believe**
+## What we believe
 
 **We believe disagreement is legitimate but abuse is not.** People can and will disagree with Nyadol's views. Debate about migration, identity and national culture is to be expected, and a democracy is better for it. As a society, we must be able to hold these uncomfortable conversations about race and belonging without silencing or undermining those who speak them. Racist abuse, threats, and calls for someone to be expelled from the country are no longer part of a debate, but they incite hatred and harm.  
 
@@ -34,13 +34,13 @@ Structural racism does not only harm people directly. It teaches them that namin
 
 **We believe in shared values.** From temporary visa holders to new citizens, every person moving here is required to formally commit to Australian values. Importantly, the government’s own citizenship framework clarifies these values - such as respect for the dignity of the individual, racial equality, mutual respect, tolerance, compassion, and equality of opportunity - and presents these as values that operate within a diverse society. They are not defined by one ethnicity, religion, or ancestry. In this heated debate, we must remember that commitment and honour it with equal respect.
 
-**What we ask of others**
+##What we ask of others
 
 **Media and commentators:** Verify the record. Report on what she has said, not on rumour or on her family. Be vigilant with sources, and be clear about the difference between reporting and campaigning.
 **Political and community leaders:** Model the debate you want to see. Challenge her arguments if you disagree, and be equally clear in condemning abuse and dehumanising rhetoric.
 **The public:** Before sharing a pile-on, ask whether it adds to the debate or only to the harm. And when the conversation turns from numbers to people, stay in it. Let's not only celebrate refugees when they are winning.
 
-**Our message to Nyadol**
+##Our message to Nyadol
 
 We see you. 
 
