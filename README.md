@@ -42,7 +42,7 @@ Structural racism does not only harm people directly. It teaches them that namin
 
 **The public:** Before sharing a pile-on, ask whether it adds to the debate or only to the harm. And when the conversation turns from numbers to people, stay in it. Let's not only celebrate refugees when they are winning.
 
-##Our message to Nyadol
+## Our message to Nyadol
 
 We see you. 
 
