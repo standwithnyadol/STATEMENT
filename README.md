@@ -37,7 +37,9 @@ Structural racism does not only harm people directly. It teaches them that namin
 ## What we ask of others
 
 **Media and commentators:** Verify the record. Report on what she has said, not on rumour or on her family. Be vigilant with sources, and be clear about the difference between reporting and campaigning.
+
 **Political and community leaders:** Model the debate you want to see. Challenge her arguments if you disagree, and be equally clear in condemning abuse and dehumanising rhetoric.
+
 **The public:** Before sharing a pile-on, ask whether it adds to the debate or only to the harm. And when the conversation turns from numbers to people, stay in it. Let's not only celebrate refugees when they are winning.
 
 ##Our message to Nyadol
