@@ -63,7 +63,7 @@ You do not stand alone.
 1. Mariam Veiszadeh, DEI Executive & Founder Islamophobia Register Australia
 2. Emem Udo, Lawyer
 3. Mibenge Nsenduluka, Founder - Back Cover Media
-4. Suresh Rajan
+4. Suresh Rajan, Community Advocate
 5. Tina Nematian, Founder, One Planet Migration
 6. Mona Shindy, Mona Shindy Foundation, Retired Royal Australian Navy Captain, Engineer, Author, Speaker, Strategic Leader Business and Community Leader
 7. Prabha Nandagopal, Human Rights Lawyer
@@ -92,3 +92,4 @@ You do not stand alone.
 31. Elizabeth Lang, Co-Founder, Racism Register; expertise in human rights, systemic racism and violence.
 32. Brenda Gaddi, Women of Colour Australia
 33. Carol Kiernan, Co-Founded Honour a Woman
+34. Douglas Mathews, Drilling Consultant
