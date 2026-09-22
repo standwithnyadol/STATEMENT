@@ -124,3 +124,5 @@ You do not stand alone.
 63. Valerie Van Loggerenberg, Community Member
 64. Husna Amani, Emerging Social Worker, Racial justice and Disability Advocate
 65. Oliver Khoury, Community Member
+66. Karen Manskry, Community Member
+
