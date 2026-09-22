@@ -335,4 +335,5 @@ You do not stand alone.
 <li>Emmanuel &apos;Emo&apos; Majok, Entertainer</li>
 <li>Bron Williams, Community Member</li>
 <li>Rebecca Faulkner, Community Member and Political Party Member</li>
+<li> Monica Harte, Social Worker and Australian Services Union Delegate</li>
 </ol>
