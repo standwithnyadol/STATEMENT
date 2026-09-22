@@ -86,3 +86,9 @@ You do not stand alone.
 25. Lydia Ho, Community Member
 26. Shravan Guntuku, Community Member, PhD Student, Western Sydney University
 27. Shelley Steel, J.P. (Qual.) QLD
+28. Jayme Clara Johnson, Software Engineer, Community Member and Ally
+29. Alley Pascoe, Writer
+30. Rod Hunt, Community Member
+31. Elizabeth Lang, Co-Founder, Racism Register; expertise in human rights, systemic racism and violence.
+32. Brenda Gaddi, Women of Colour Australia
+33. Carol Kiernan, Co-Founded Honour a Woman
