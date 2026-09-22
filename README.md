@@ -85,3 +85,4 @@ You do not stand alone.
 24. Sonali Seneviratne, Lawyer
 25. Lydia Ho, Community Member
 26. Shravan Guntuku, Community Member, PhD Student, Western Sydney University
+27. Shelley Steel, J.P. (Qual.) QLD
