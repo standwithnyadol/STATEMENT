@@ -94,3 +94,31 @@ You do not stand alone.
 33. Carol Kiernan, Co-Founded Honour a Woman
 34. Douglas Mathews, Drilling Consultant
 35. Dr Lara Palombo, Lecturer in Criminology, Macquarie University
+36. Emeli, Cofounder / SoCo Collective
+37. Prudence Gilbert, CEO, Grace Papers; Lawyer and Fellow of Governance Institute
+38. Andrew Town, Advocate for system change, social and environmental justice; Masters of Sustainable Development
+39. Muoti Makau, Community Member
+40. Mariam Deng, Director of Client Services Australian Muslim Women’s Centre / Human Rights
+41. Anne Peters, Retiree; Life long advocate for human rights
+42. Ann Lawrence, Registered Nurse, Library technician; Mental health cert 4 and MH Peer Work Cert 4
+43. Navanita Bhattacharya, Independent thinker and practitioner
+44. John McCarthy, Community Member
+45. Zeeshan Hussain, Community Member
+46. Christina Pilgrim, Community Member
+47. Sandra Flores, Student
+48. Meggie Palmer, Founder
+49. Senada Suljagic, Children of Srebrenica
+50. Yohana Jury, Community Member; Multicultural Advocate
+51. Seham Al-Shwayli, Lecturer, PhD from Monash University
+52. Theresa D’Emden, Community Member
+53. Babi Rani Poudel, Brimbank Communities Initiative Inc
+54. Mark Ward, Freelance Correspondent; Perpetual world traveller of some decades
+55. Rev Sandy Boyce, Uniting Church in Australia
+56. Bernie Durkin, Community Member
+57. Camilla Schippa, Former CEO of The Social Outfit, former Managing Director of the Institute for Economics and Peace
+58. Samantha Bowen, Managing Director; Workforce and Leadership Consultant
+59. Evelyn Patricia Dodson, Community Member, Social Worker (worked with migrants, refugees, First Nations)
+60. Jane Young, Community Member
+61. Shabnam Safa OAM, Refugee Advocate
+62. Rhonda Kiely, Community Member
+63. Valerie Van Loggerenberg, Community Member
