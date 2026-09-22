@@ -67,8 +67,8 @@ You do not stand alone.
 <li>Suresh Rajan, Community Advocate</li>
 <li>Tina Nematian, Founder, One Planet Migration</li>
 <li>Maria Osman GAICD Hon LLD, Board Director</li>
-<li>Elizabeth Lang, Co-Founder, Racism Register; expertise in human rights, systemic racism and violence.</li>
-<li>Mona Shindy, Mona Shindy Foundation, Retired Royal Australian Navy Captain, Engineer, Author, Speaker, Strategic Leader Business and Community Leader</li>
+<li>Elizabeth Lang, Co-Founder, Racism Register</li>
+<li>Mona Shindy, Mona Shindy Foundation</li>
 <li>Prabha Nandagopal, Human Rights Lawyer</li>
 <li>Nesreen Hussein Bottriell, Australian Muslim Women’s Centre for Human Rights</li>
 <li>Rob Hookey, Photographer</li>
@@ -98,11 +98,11 @@ You do not stand alone.
 <li>Dr Lara Palombo, Lecturer in Criminology, Macquarie University</li>
 <li>Emeli, Cofounder / SoCo Collective</li>
 <li>Prudence Gilbert, CEO, Grace Papers; Lawyer and Fellow of Governance Institute</li>
-<li>Andrew Town, Advocate for system change, social and environmental justice; Masters of Sustainable Development</li>
+<li>Andrew Town, Advocate for system change, social and environmental justice</li>
 <li>Muoti Makau, Community Member</li>
 <li>Mariam Deng, Director of Client Services Australian Muslim Women’s Centre / Human Rights</li>
 <li>Anne Peters, Retiree; Life long advocate for human rights</li>
-<li>Ann Lawrence, Registered Nurse, Library technician; Mental health cert 4 and MH Peer Work Cert 4</li>
+<li>Ann Lawrence, Registered Nurse, Library technician</li>
 <li>Navanita Bhattacharya, Independent thinker and practitioner</li>
 <li>John McCarthy, Community Member</li>
 <li>Zeeshan Hussain, Community Member</li>
