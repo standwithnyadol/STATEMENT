@@ -65,31 +65,32 @@ You do not stand alone.
 3. Mibenge Nsenduluka, Founder - Back Cover Media
 4. Suresh Rajan, Community Advocate
 5. Tina Nematian, Founder, One Planet Migration
-6. Mona Shindy, Mona Shindy Foundation, Retired Royal Australian Navy Captain, Engineer, Author, Speaker, Strategic Leader Business and Community Leader
-7. Prabha Nandagopal, Human Rights Lawyer
-8. Nesreen Hussein Bottriell, Australian Muslim Women’s Centre for Human Rights
-9. Rob Hookey, Photographer
-10. Haroon Hassan, Barrister & Mediator
-11. Kristen Ripper, Community Member
-12. Leanne De Souza, Writer
-13. Sandra Phillips, Community Member
-14. Lauren Piovesan, ESL Reads, English language teacher of newly arrived migrants and refugees
-15. Ida Gaskell, Content and Social Media Specialist
-16. Alison Hallworth - HumanKind. Be both
-17. Juliana Lobo de Queiroz, Training Consultant / SSI, PhD Anthropology and Refugee Studies
-18. Dr Anisa Buckley, Western Sydney University
-19. Mario Peucker, Victoria University
-20. Jess Hill, Industry Professor, UTS, Industry Professor
-21. Fiona Dyball, Teacher
-23. Jun Fu, University of Melbourne, Dr in Education
-24. Sonali Seneviratne, Lawyer
-25. Lydia Ho, Community Member
-26. Shravan Guntuku, Community Member, PhD Student, Western Sydney University
-27. Shelley Steel, J.P. (Qual.) QLD
-28. Jayme Clara Johnson, Software Engineer, Community Member and Ally
-29. Alley Pascoe, Writer
-30. Rod Hunt, Community Member
-31. Elizabeth Lang, Co-Founder, Racism Register; expertise in human rights, systemic racism and violence.
+6. Maria Osman GAICD Hon LLD, Board Director
+7. Elizabeth Lang, Co-Founder, Racism Register; expertise in human rights, systemic racism and violence.
+8. Mona Shindy, Mona Shindy Foundation, Retired Royal Australian Navy Captain, Engineer, Author, Speaker, Strategic Leader Business and Community Leader
+9. Prabha Nandagopal, Human Rights Lawyer
+10. Nesreen Hussein Bottriell, Australian Muslim Women’s Centre for Human Rights
+11. Rob Hookey, Photographer
+12. Haroon Hassan, Barrister & Mediator
+13. Kristen Ripper, Community Member
+14. Leanne De Souza, Writer
+15. Sandra Phillips, Community Member
+16. Lauren Piovesan, ESL Reads, English language teacher of newly arrived migrants and refugees
+17. Ida Gaskell, Content and Social Media Specialist
+18. Alison Hallworth - HumanKind. Be both
+19. Juliana Lobo de Queiroz, Training Consultant / SSI, PhD Anthropology and Refugee Studies
+20. Dr Anisa Buckley, Western Sydney University
+21. Mario Peucker, Victoria University
+22. Jess Hill, Industry Professor, UTS, Industry Professor
+23. Fiona Dyball, Teacher
+24. Jun Fu, University of Melbourne, Dr in Education
+25. Sonali Seneviratne, Lawyer
+26. Lydia Ho, Community Member
+27. Shravan Guntuku, Community Member, PhD Student, Western Sydney University
+28. Shelley Steel, J.P. (Qual.) QLD
+29. Jayme Clara Johnson, Software Engineer, Community Member and Ally
+30. Alley Pascoe, Writer
+31. Rod Hunt, Community Member
 32. Brenda Gaddi, Women of Colour Australia
 33. Carol Kiernan, Co-Founded Honour a Woman
 34. Douglas Mathews, Drilling Consultant
@@ -126,3 +127,39 @@ You do not stand alone.
 65. Oliver Khoury, Community Member
 66. Karen Manskry, Community Member
 67. Christine Bupe Simwaba Batti, Community Member
+68. Francine Sculli, Community Engagement
+69. Alan Ward, Community Member
+70. Sam Edis, Registered Nurse/Midwife
+71. Nyangak (Lizzy) Kuoth, Community Member
+72. Karen Hayes, Academic
+73. Revathi Ramiah, Academic
+74. Michele Playfair, Community Member
+75. Denise Ngabo, Women’s Power of Inspiration
+76. Karen Black, Community Member
+77. John Chadderton, Justice Action Maribyrnong
+78. Donna Quinn, Community Member and Migrant
+79. Bill Ash, Author
+80. Dr Danielle Stefanski, Specialist Physician
+81. Kubernath Chourasia, Community Member
+82. Helen Winterton, Community Member, Journalist
+83. Meg Dunley, Community Member
+84. Fran Hamilton, Community Member
+85. Carole Barnes, Community Member
+86. Nuria Morato, IWDA
+87. Ally Farmer, Community Member
+88. Liz Millward, Community Member
+89. Kate Pickworth, Kommunikate Design Owner
+90. Oumi Karenga-Hewitt, Community Member
+91. Susanne Legena, CEO
+92. Dennis Ryle, Retired Minister
+93. Paul Power, Co-CEO, Refugee Council of Australia
+94. Sonia Sarangi, Architect & Community Member
+95. Helen Adam, Edith Cowan University
+96. Rose Maninyitia, Community Member
+97. Georgina Friday, Community Member
+98. Fran Haintz, Community Member
+99. Liz Grandmaison, Community Member
+100. Alaak Alaak, Community Member
+101. Prof Rob Townsend, Naturally Gifted Research
+102. Michele Murphy, Community Member
+103. Jayme Clara Johnson, Software Engineer, Community Member, Ally
