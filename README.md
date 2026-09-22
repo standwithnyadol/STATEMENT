@@ -163,3 +163,102 @@ You do not stand alone.
 101. Prof Rob Townsend, Naturally Gifted Research
 102. Michele Murphy, Community Member
 103. Jayme Clara Johnson, Software Engineer, Community Member, Ally
+104. Rania Ghandour, Community Member
+105. Davina Murray, Community Member
+106. Sandy Chakravarty, Non-Executive Director
+107. Abderazzaq Noor, Community Member
+108. Kris Hithgoda, Community Member
+109. Koon, Potential Q
+110. Mim Bartlett, MD Mim Bartlett Consulting
+111. Parvinder Gill, Counsellor
+112. Jenny Lobato, Community
+113. Eileen Clark, Counsellor
+114. Adam Bratt, Lawyer
+115. Joy Proffitt, None
+116. Kong-Wai Wong, Australian Citizen since 2003
+117. Glenda Kickett, Whadjuk Noongar Elder
+118. Derrin Stent, Founder
+119. Peri Coleman, Community Member
+120. Khristine Ryan, Community Member
+121. Tanel Jan Palgi, Freelance Journalist
+122. Kenneth Gitahi, Lawyer
+123. Lisa Ingram, Community Member
+124. Helen Fletcher-Kennedy, COO, Australia-Indonesia Centre, Monash University
+125. Amanda Bentley, Community Member
+126. Jill Jackson, Community Member
+127. Lou Finch, Citizen
+128. Dianna Nixon, Music Theatre Projects
+129. Erika Martino, VicHealth Research Fellow
+130. Sian Bennett, Community Member
+131. Hawanatu Bangura, Social Worker and Filmmaker
+132. Neil Greet, Private
+133. Philippa Jahn, Community Member
+134. Rosemary Miller, CARAD Centre for Asylum Seekers Refugees and Detainees
+135. Laura Luna, Community, Arts, Culture Professional
+136. Coleen MacKinnon, Principal and Founder, Inclusivity Quotient
+137. Sarah Reid, Community Member
+138. Sharon Gudu, Community Member
+139. Trisha Carlton, Public
+140. Tony, CEO Garnduwa Amboorny Wirnan
+141. Amanda Lovitt, Celebrant
+142. Yitong Jin, Refugee Lawyer
+143. Rosie Fisher, Arts Worker
+144. Koenraad VA, Navigation360 Lead Resource Person
+145. Fiona Steele, Community Member
+146. Mark Thomson, Retired APS Officer
+147. Teresa Lombardo, DEI Lead
+148. Georgine Clarsen, Retired
+149. David Andrews, Lawyer
+150. Rani Nandan, Community Member
+151. Jennie De Neefe, Surfcoast for Reconciliation
+152. Julia Imrie, Community Member
+153. Susan Forde, Community Member
+154. Maha Melhem, Lawyer
+155. Lisa Hartley, Associate Professor, Centre for Human Rights Education, Curtin University
+156. Christine Guirguis, Women's Health
+157. Presley Chihuri, Community Member
+158. Francesca Meehan, Ally
+159. Shail Akhil, Community Member
+160. Brian Nugawela, Barrister
+161. Faith Materu, Community Member
+162. Dr Skye R Tinevimbo Chirape, Postdoctoral Research Fellow, Tokyo, Japan
+163. Maree Kitscha, Retiree
+164. Taylor Richardson-Marlton, Griffith University
+165. Cate Grace, Community Advocate
+166. Sandra Goerling, Community Member
+167. Emily Bird, Community Member
+168. Alanna Somers, Community Member
+169. Athuai Mou, CEO - Supa Magontong Group
+170. Émeline Alfandari, Marketing Manager
+171. Priscilla Brice, Community Member
+172. Fiona White, Lived Experience Health Advocate, Co-Founder of The Prostate Zone
+173. Serafina Maiorano, Community Member
+174. Amrita Dasvarma, Lived Experience Researcher
+175. Meg, Community Member
+176. Madhavi Johnson, Community Member
+177. Regina Kroczek, Community Member
+178. Belinda Poole, Community Member
+179. Andrew Vandenberg, Surfcoast for Reconciliation
+180. Melissa Hart, Community Member
+181. Hannah McGlade, Curtin Law School
+182. Renae Isaacs-Guthridge, Senior Lecturer
+183. Jason Lane-Scutt, Community Member
+184. Giulia Lepori, Sessional Academic
+185. Terrell Lacey, Community Member
+186. Sumaiyah, Teacher
+187. Virginia Purcell, Community Member
+188. Lata Satyen, Associate Professor in Psychology
+189. Ferdi Hepworth, Philanthropy Lead
+190. Richa Joshi, Unmuting You
+191. Christopher Christie, Founder and CEO, BlackPath
+192. Peter Anthony, Journalism
+193. Narayan Mukkavilli, Community Member
+194. Jonathan Burrill, Community Member
+195. John Na'em Snobar, Community Member
+196. Marilyn Clarke, Librarian
+197. Sherry M Bell, Grow Fundraising & Consulting Inc.
+198. Caroline D'Cruz, Community Member
+199. Rain Jago Ratajczak, Lawyer, Executive Coach, Writer, Genocide Scholar
+200. Kwaku Dad Abu-Bonsrah, University of Melbourne
+201. Frances Feenstra, Deputy Chair, Moonah House / Director, Hoop Consulting
+202. Ian Law, Anti-Discrimination Advocate
