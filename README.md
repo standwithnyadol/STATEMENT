@@ -73,13 +73,13 @@ You do not stand alone.
 11. Kristen Ripper, Community Member
 12. Leanne De Souza, Writer
 13. Sandra Phillips, Community Member
-14. Lauren Piovesan, ESL Reads
+14. Lauren Piovesan, ESL Reads, English language teacher of newly arrived migrants and refugees
 15. Ida Gaskell, Content and Social Media Specialist
-16. Alison Hallworth
-17. Juliana Lobo de Queiroz, Training Consultant / SSI
+16. Alison Hallworth - HumanKind. Be both
+17. Juliana Lobo de Queiroz, Training Consultant / SSI, PhD Anthropology and Refugee Studies
 18. Dr Anisa Buckley, Western Sydney University
 19. Mario Peucker, Victoria University
-20. Jess Hill, Industry Professor, UTS
+20. Jess Hill, Industry Professor, UTS, Industry Professor
 21. Fiona Dyball, Teacher
 23. Jun Fu, University of Melbourne, Dr in Education
 24. Sonali Seneviratne, Lawyer
