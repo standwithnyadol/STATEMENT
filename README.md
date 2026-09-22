@@ -62,7 +62,7 @@ You do not stand alone.
 
 1. Mariam Veiszadeh, DEI Executive & Founder Islamophobia Register Australia
 2. Emem Udo, Lawyer
-3. Mibenge Nsenduluka
+3. Mibenge Nsenduluka, Founder - Back Cover Media
 4. Suresh Rajan
 5. Tina Nematian, Founder, One Planet Migration
 6. Mona Shindy, Mona Shindy Foundation, Retired Royal Australian Navy Captain, Engineer, Author, Speaker, Strategic Leader Business and Community Leader
