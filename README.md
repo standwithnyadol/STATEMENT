@@ -334,4 +334,5 @@ You do not stand alone.
 <li>Dr. Samiul Hossain, Psychologist</li>
 <li>Emmanuel &apos;Emo&apos; Majok, Entertainer</li>
 <li>Bron Williams, Community Member</li>
+<li>Rebecca Faulkner, Community Member and Political Party Member</li>
 </ol>
