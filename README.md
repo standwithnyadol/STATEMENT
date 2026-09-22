@@ -60,277 +60,278 @@ You do not stand alone.
 
 ## Signatories
 
-1. Mariam Veiszadeh, DEI Executive & Founder Islamophobia Register Australia
-2. Emem Udo, Lawyer
-3. Mibenge Nsenduluka, Founder - Back Cover Media
-4. Suresh Rajan, Community Advocate
-5. Tina Nematian, Founder, One Planet Migration
-6. Maria Osman GAICD Hon LLD, Board Director
-7. Elizabeth Lang, Co-Founder, Racism Register; expertise in human rights, systemic racism and violence.
-8. Mona Shindy, Mona Shindy Foundation, Retired Royal Australian Navy Captain, Engineer, Author, Speaker, Strategic Leader Business and Community Leader
-9. Prabha Nandagopal, Human Rights Lawyer
-10. Nesreen Hussein Bottriell, Australian Muslim Women’s Centre for Human Rights
-11. Rob Hookey, Photographer
-12. Haroon Hassan, Barrister & Mediator
-13. Kristen Ripper, Community Member
-14. Leanne De Souza, Writer
-15. Sandra Phillips, Community Member
-16. Lauren Piovesan, ESL Reads, English language teacher of newly arrived migrants and refugees
-17. Ida Gaskell, Content and Social Media Specialist
-18. Alison Hallworth - HumanKind. Be both
-19. Juliana Lobo de Queiroz, Training Consultant / SSI, PhD Anthropology and Refugee Studies
-20. Dr Anisa Buckley, Western Sydney University
-21. Mario Peucker, Victoria University
-22. Jess Hill, Industry Professor, UTS, Industry Professor
-23. Fiona Dyball, Teacher
-24. Jun Fu, University of Melbourne, Dr in Education
-25. Sonali Seneviratne, Lawyer
-26. Lydia Ho, Community Member
-27. Shravan Guntuku, Community Member, PhD Student, Western Sydney University
-28. Shelley Steel, J.P. (Qual.) QLD
-29. Jayme Clara Johnson, Software Engineer, Community Member and Ally
-30. Alley Pascoe, Writer
-31. Rod Hunt, Community Member
-32. Brenda Gaddi, Women of Colour Australia
-33. Carol Kiernan, Co-Founded Honour a Woman
-34. Douglas Mathews, Drilling Consultant
-35. Dr Lara Palombo, Lecturer in Criminology, Macquarie University
-36. Emeli, Cofounder / SoCo Collective
-37. Prudence Gilbert, CEO, Grace Papers; Lawyer and Fellow of Governance Institute
-38. Andrew Town, Advocate for system change, social and environmental justice; Masters of Sustainable Development
-39. Muoti Makau, Community Member
-40. Mariam Deng, Director of Client Services Australian Muslim Women’s Centre / Human Rights
-41. Anne Peters, Retiree; Life long advocate for human rights
-42. Ann Lawrence, Registered Nurse, Library technician; Mental health cert 4 and MH Peer Work Cert 4
-43. Navanita Bhattacharya, Independent thinker and practitioner
-44. John McCarthy, Community Member
-45. Zeeshan Hussain, Community Member
-46. Christina Pilgrim, Community Member
-47. Sandra Flores, Student
-48. Meggie Palmer, Founder
-49. Senada Suljagic, Children of Srebrenica
-50. Yohana Jury, Community Member; Multicultural Advocate
-51. Seham Al-Shwayli, Lecturer, PhD from Monash University
-52. Theresa D’Emden, Community Member
-53. Babi Rani Poudel, Brimbank Communities Initiative Inc
-54. Mark Ward, Freelance Correspondent; Perpetual world traveller of some decades
-55. Rev Sandy Boyce, Uniting Church in Australia
-56. Bernie Durkin, Community Member
-57. Camilla Schippa, Former CEO of The Social Outfit, former Managing Director of the Institute for Economics and Peace
-58. Samantha Bowen, Managing Director; Workforce and Leadership Consultant
-59. Evelyn Patricia Dodson, Community Member, Social Worker (worked with migrants, refugees, First Nations)
-60. Jane Young, Community Member
-61. Shabnam Safa OAM, Refugee Advocate
-62. Rhonda Kiely, Community Member
-63. Valerie Van Loggerenberg, Community Member
-64. Husna Amani, Emerging Social Worker, Racial justice and Disability Advocate
-65. Oliver Khoury, Community Member
-66. Karen Manskry, Community Member
-67. Christine Bupe Simwaba Batti, Community Member
-68. Francine Sculli, Community Engagement
-69. Alan Ward, Community Member
-70. Sam Edis, Registered Nurse/Midwife
-71. Nyangak (Lizzy) Kuoth, Community Member
-72. Karen Hayes, Academic
-73. Revathi Ramiah, Academic
-74. Michele Playfair, Community Member
-75. Denise Ngabo, Women’s Power of Inspiration
-76. Karen Black, Community Member
-77. John Chadderton, Justice Action Maribyrnong
-78. Donna Quinn, Community Member and Migrant
-79. Bill Ash, Author
-80. Dr Danielle Stefanski, Specialist Physician
-81. Kubernath Chourasia, Community Member
-82. Helen Winterton, Community Member, Journalist
-83. Meg Dunley, Community Member
-84. Fran Hamilton, Community Member
-85. Carole Barnes, Community Member
-86. Nuria Morato, IWDA
-87. Ally Farmer, Community Member
-88. Liz Millward, Community Member
-89. Kate Pickworth, Kommunikate Design Owner
-90. Oumi Karenga-Hewitt, Community Member
-91. Susanne Legena, CEO
-92. Dennis Ryle, Retired Minister
-93. Paul Power, Co-CEO, Refugee Council of Australia
-94. Sonia Sarangi, Architect & Community Member
-95. Helen Adam, Edith Cowan University
-96. Rose Maninyitia, Community Member
-97. Georgina Friday, Community Member
-98. Fran Haintz, Community Member
-99. Liz Grandmaison, Community Member
-100. Alaak Alaak, Community Member
-101. Prof Rob Townsend, Naturally Gifted Research
-102. Michele Murphy, Community Member
-103. Jayme Clara Johnson, Software Engineer, Community Member, Ally
-104. Rania Ghandour, Community Member
-105. Davina Murray, Community Member
-106. Sandy Chakravarty, Non-Executive Director
-107. Abderazzaq Noor, Community Member
-108. Kris Hithgoda, Community Member
-109. Koon, Potential Q
-110. Mim Bartlett, MD Mim Bartlett Consulting
-111. Parvinder Gill, Counsellor
-112. Jenny Lobato, Community
-113. Eileen Clark, Counsellor
-114. Adam Bratt, Lawyer
-115. Joy Proffitt, None
-116. Kong-Wai Wong, Australian Citizen since 2003
-117. Glenda Kickett, Whadjuk Noongar Elder
-118. Derrin Stent, Founder
-119. Peri Coleman, Community Member
-120. Khristine Ryan, Community Member
-121. Tanel Jan Palgi, Freelance Journalist
-122. Kenneth Gitahi, Lawyer
-123. Lisa Ingram, Community Member
-124. Helen Fletcher-Kennedy, COO, Australia-Indonesia Centre, Monash University
-125. Amanda Bentley, Community Member
-126. Jill Jackson, Community Member
-127. Lou Finch, Citizen
-128. Dianna Nixon, Music Theatre Projects
-129. Erika Martino, VicHealth Research Fellow
-130. Sian Bennett, Community Member
-131. Hawanatu Bangura, Social Worker and Filmmaker
-132. Neil Greet, Private
-133. Philippa Jahn, Community Member
-134. Rosemary Miller, CARAD Centre for Asylum Seekers Refugees and Detainees
-135. Laura Luna, Community, Arts, Culture Professional
-136. Coleen MacKinnon, Principal and Founder, Inclusivity Quotient
-137. Sarah Reid, Community Member
-138. Sharon Gudu, Community Member
-139. Trisha Carlton, Public
-140. Tony, CEO Garnduwa Amboorny Wirnan
-141. Amanda Lovitt, Celebrant
-142. Yitong Jin, Refugee Lawyer
-143. Rosie Fisher, Arts Worker
-144. Koenraad VA, Navigation360 Lead Resource Person
-145. Fiona Steele, Community Member
-146. Mark Thomson, Retired APS Officer
-147. Teresa Lombardo, DEI Lead
-148. Georgine Clarsen, Retired
-149. David Andrews, Lawyer
-150. Rani Nandan, Community Member
-151. Jennie De Neefe, Surfcoast for Reconciliation
-152. Julia Imrie, Community Member
-153. Susan Forde, Community Member
-154. Maha Melhem, Lawyer
-155. Lisa Hartley, Associate Professor, Centre for Human Rights Education, Curtin University
-156. Christine Guirguis, Women's Health
-157. Presley Chihuri, Community Member
-158. Francesca Meehan, Ally
-159. Shail Akhil, Community Member
-160. Brian Nugawela, Barrister
-161. Faith Materu, Community Member
-162. Dr Skye R Tinevimbo Chirape, Postdoctoral Research Fellow, Tokyo, Japan
-163. Maree Kitscha, Retiree
-164. Taylor Richardson-Marlton, Griffith University
-165. Cate Grace, Community Advocate
-166. Sandra Goerling, Community Member
-167. Emily Bird, Community Member
-168. Alanna Somers, Community Member
-169. Athuai Mou, CEO - Supa Magontong Group
-170. Émeline Alfandari, Marketing Manager
-171. Priscilla Brice, Community Member
-172. Fiona White, Lived Experience Health Advocate, Co-Founder of The Prostate Zone
-173. Serafina Maiorano, Community Member
-174. Amrita Dasvarma, Lived Experience Researcher
-175. Meg, Community Member
-176. Madhavi Johnson, Community Member
-177. Regina Kroczek, Community Member
-178. Belinda Poole, Community Member
-179. Andrew Vandenberg, Surfcoast for Reconciliation
-180. Melissa Hart, Community Member
-181. Hannah McGlade, Curtin Law School
-182. Renae Isaacs-Guthridge, Senior Lecturer
-183. Jason Lane-Scutt, Community Member
-184. Giulia Lepori, Sessional Academic
-185. Terrell Lacey, Community Member
-186. Sumaiyah, Teacher
-187. Virginia Purcell, Community Member
-188. Lata Satyen, Associate Professor in Psychology
-189. Ferdi Hepworth, Philanthropy Lead
-190. Richa Joshi, Unmuting You
-191. Christopher Christie, Founder and CEO, BlackPath
-192. Peter Anthony, Journalism
-193. Narayan Mukkavilli, Community Member
-194. Jonathan Burrill, Community Member
-195. John Na'em Snobar, Community Member
-196. Marilyn Clarke, Librarian
-197. Sherry M Bell, Grow Fundraising & Consulting Inc.
-198. Caroline D'Cruz, Community Member
-199. Rain Jago Ratajczak, Lawyer, Executive Coach, Writer, Genocide Scholar
-200. Kwaku Dad Abu-Bonsrah, University of Melbourne
-201. Frances Feenstra, Deputy Chair, Moonah House / Director, Hoop Consulting
-202. Ian Law, Anti-Discrimination Advocate
-203. Liliana Sanchez, Anthropologist / Cultural Educator
-204. Mary Estcourt, Retired Teacher
-205. Kim Asher, Refugee Activist
-206. Kelli McCluskey, Chief Executive Artist
-207. Ellie Large, Concerned Citizen
-208. Charlotte Solomon, Community Member
-209. Lynne Pantaur, Community Member
-210. Deb Carlon, None
-211. Olivia Johnston, Academic
-212. Barbara Phi, Community Member
-213. Min Wah Voon, Consultant
-214. Niranjala Galhenage, Retired Community Member
-215. Nooreen Harris, Community Member
-216. Mark Lomas, English Boat Person
-217. Mark Wellard, Interested Community Member
-218. Dr Pippa Tandy, Retired
-219. Lyndall Moore, Community Member
-220. Aralia Schmidt, Cultural Facilitation Lead, KWC
-221. Kerry Dickinson, Community Member
-222. Karrie McCulloch, Educator & Youth Worker
-223. Stefanie Flowers, Macquarie University
-224. Julianna Shearn, Director, Shearn HR Legal
-225. Elisheva Madar, Peacebuilding and Policy Worker
-226. Morag Glen, Community Member
-227. Lee Doepel Grien, Community Member
-228. Anne-Maree Liddelow, Educator
-229. Sarah Lenhard, Community Member
-230. Aalia Nasser, Student
-231. Raelene Bartlett, RTO Doctor
-232. Anita Gupta, Clinical Psychologist
-233. Adele Rice AM, Educator and Refugee Advocate
-234. Samgiita, Dementia Doula
-235. Farida Fozdar, Professor, Curtin University
-236. Lucy Tatham, Legal Counsel
-237. Ajith Rajapaksa, People for Human Rights & Equality
-238. Jennifer Coughran, Community Member
-239. Sarah Fulton, Lawyer
-240. Liz Murray, Primary School Teacher
-241. Jacynta Krakouer, Enterprise Fellow, Adelaide University
-242. Kwanele Asante, Co-Founder PxP Africa
-243. Debbie Miller, Voices of Moncrieff
-244. Jenny Edwards, Director, Light House ArchiScience
-245. Anna Wardle, Queensland University of Technology
-246. Marissa Williams, Journalist
-247. Cathryn Groves, Community Member
-248. Ivy Chen, Geologist
-249. Jules, Community Member
-250. Dr Pauline Manley, Teacher
-251. Pamela McPherson, Community Member
-252. Michael Gravener, Cater
-253. Nola Smith, Community Member
-254. Ron Lucerne-Knight, Renewable Power Originator
-255. Jaspreet Kaur, Lawyer
-256. Apajok Biar, CEO Multicultural Community Services of Central Australia
-257. Beth Raps, Founder, RAISING CLARITY
-258. Sara Timms, Teacher - Victorian Education Department
-259. Joan Christensen, Community Member
-260. James Kerr, Gudjala - Proud First Nations Man
-261. Corinne Brown, Behavioural Based Safety Specialist
-262. Suzanna Clarke, Author
-263. Fatima Padshah, Community Member
-264. Sharan Kraemer, Education MSCWA
-265. Jill Lyall, Community Member
-266. Jacquie Thomson, Safer Ways Campaign
-267. Melanie Van de Sande, Community Member
-268. Annabelle Nunn, Community Member
-269. Martin Mulchrone, Community Member
-270. Kathryn B, Community Member
-271. M Vee, Community Member
-272. Dr. Samiul Hossain, Psychologist
-273. Emmanuel 'Emo' Majok, Entertainer
-274. Bron Williams, Community Member
+<ol>
+<li>Mariam Veiszadeh, DEI Executive &amp; Founder Islamophobia Register Australia</li>
+<li>Emem Udo, Lawyer</li>
+<li>Mibenge Nsenduluka, Founder - Back Cover Media</li>
+<li>Suresh Rajan, Community Advocate</li>
+<li>Tina Nematian, Founder, One Planet Migration</li>
+<li>Maria Osman GAICD Hon LLD, Board Director</li>
+<li>Elizabeth Lang, Co-Founder, Racism Register; expertise in human rights, systemic racism and violence.</li>
+<li>Mona Shindy, Mona Shindy Foundation, Retired Royal Australian Navy Captain, Engineer, Author, Speaker, Strategic Leader Business and Community Leader</li>
+<li>Prabha Nandagopal, Human Rights Lawyer</li>
+<li>Nesreen Hussein Bottriell, Australian Muslim Women’s Centre for Human Rights</li>
+<li>Rob Hookey, Photographer</li>
+<li>Haroon Hassan, Barrister &amp; Mediator</li>
+<li>Kristen Ripper, Community Member</li>
+<li>Leanne De Souza, Writer</li>
+<li>Sandra Phillips, Community Member</li>
+<li>Lauren Piovesan, ESL Reads, English language teacher of newly arrived migrants and refugees</li>
+<li>Ida Gaskell, Content and Social Media Specialist</li>
+<li>Alison Hallworth - HumanKind. Be both</li>
+<li>Juliana Lobo de Queiroz, Training Consultant / SSI, PhD Anthropology and Refugee Studies</li>
+<li>Dr Anisa Buckley, Western Sydney University</li>
+<li>Mario Peucker, Victoria University</li>
+<li>Jess Hill, Industry Professor, UTS, Industry Professor</li>
+<li>Fiona Dyball, Teacher</li>
+<li>Jun Fu, University of Melbourne, Dr in Education</li>
+<li>Sonali Seneviratne, Lawyer</li>
+<li>Lydia Ho, Community Member</li>
+<li>Shravan Guntuku, Community Member, PhD Student, Western Sydney University</li>
+<li>Shelley Steel, J.P. (Qual.) QLD</li>
+<li>Jayme Clara Johnson, Software Engineer, Community Member and Ally</li>
+<li>Alley Pascoe, Writer</li>
+<li>Rod Hunt, Community Member</li>
+<li>Brenda Gaddi, Women of Colour Australia</li>
+<li>Carol Kiernan, Co-Founded Honour a Woman</li>
+<li>Douglas Mathews, Drilling Consultant</li>
+<li>Dr Lara Palombo, Lecturer in Criminology, Macquarie University</li>
+<li>Emeli, Cofounder / SoCo Collective</li>
+<li>Prudence Gilbert, CEO, Grace Papers; Lawyer and Fellow of Governance Institute</li>
+<li>Andrew Town, Advocate for system change, social and environmental justice; Masters of Sustainable Development</li>
+<li>Muoti Makau, Community Member</li>
+<li>Mariam Deng, Director of Client Services Australian Muslim Women’s Centre / Human Rights</li>
+<li>Anne Peters, Retiree; Life long advocate for human rights</li>
+<li>Ann Lawrence, Registered Nurse, Library technician; Mental health cert 4 and MH Peer Work Cert 4</li>
+<li>Navanita Bhattacharya, Independent thinker and practitioner</li>
+<li>John McCarthy, Community Member</li>
+<li>Zeeshan Hussain, Community Member</li>
+<li>Christina Pilgrim, Community Member</li>
+<li>Sandra Flores, Student</li>
+<li>Meggie Palmer, Founder</li>
+<li>Senada Suljagic, Children of Srebrenica</li>
+<li>Yohana Jury, Community Member; Multicultural Advocate</li>
+<li>Seham Al-Shwayli, Lecturer, PhD from Monash University</li>
+<li>Theresa D’Emden, Community Member</li>
+<li>Babi Rani Poudel, Brimbank Communities Initiative Inc</li>
+<li>Mark Ward, Freelance Correspondent; Perpetual world traveller of some decades</li>
+<li>Rev Sandy Boyce, Uniting Church in Australia</li>
+<li>Bernie Durkin, Community Member</li>
+<li>Camilla Schippa, Former CEO of The Social Outfit, former Managing Director of the Institute for Economics and Peace</li>
+<li>Samantha Bowen, Managing Director; Workforce and Leadership Consultant</li>
+<li>Evelyn Patricia Dodson, Community Member, Social Worker (worked with migrants, refugees, First Nations)</li>
+<li>Jane Young, Community Member</li>
+<li>Shabnam Safa OAM, Refugee Advocate</li>
+<li>Rhonda Kiely, Community Member</li>
+<li>Valerie Van Loggerenberg, Community Member</li>
+<li>Husna Amani, Emerging Social Worker, Racial justice and Disability Advocate</li>
+<li>Oliver Khoury, Community Member</li>
+<li>Karen Manskry, Community Member</li>
+<li>Christine Bupe Simwaba Batti, Community Member</li>
+<li>Francine Sculli, Community Engagement</li>
+<li>Alan Ward, Community Member</li>
+<li>Sam Edis, Registered Nurse/Midwife</li>
+<li>Nyangak (Lizzy) Kuoth, Community Member</li>
+<li>Karen Hayes, Academic</li>
+<li>Revathi Ramiah, Academic</li>
+<li>Michele Playfair, Community Member</li>
+<li>Denise Ngabo, Women’s Power of Inspiration</li>
+<li>Karen Black, Community Member</li>
+<li>John Chadderton, Justice Action Maribyrnong</li>
+<li>Donna Quinn, Community Member and Migrant</li>
+<li>Bill Ash, Author</li>
+<li>Dr Danielle Stefanski, Specialist Physician</li>
+<li>Kubernath Chourasia, Community Member</li>
+<li>Helen Winterton, Community Member, Journalist</li>
+<li>Meg Dunley, Community Member</li>
+<li>Fran Hamilton, Community Member</li>
+<li>Carole Barnes, Community Member</li>
+<li>Nuria Morato, IWDA</li>
+<li>Ally Farmer, Community Member</li>
+<li>Liz Millward, Community Member</li>
+<li>Kate Pickworth, Kommunikate Design Owner</li>
+<li>Oumi Karenga-Hewitt, Community Member</li>
+<li>Susanne Legena, CEO</li>
+<li>Dennis Ryle, Retired Minister</li>
+<li>Paul Power, Co-CEO, Refugee Council of Australia</li>
+<li>Sonia Sarangi, Architect &amp; Community Member</li>
+<li>Helen Adam, Edith Cowan University</li>
+<li>Rose Maninyitia, Community Member</li>
+<li>Georgina Friday, Community Member</li>
+<li>Fran Haintz, Community Member</li>
+<li>Liz Grandmaison, Community Member</li>
+<li>Alaak Alaak, Community Member</li>
+<li>Prof Rob Townsend, Naturally Gifted Research</li>
+<li>Michele Murphy, Community Member</li>
+<li>Rania Ghandour, Community Member</li>
+<li>Davina Murray, Community Member</li>
+<li>Sandy Chakravarty, Non-Executive Director</li>
+<li>Abderazzaq Noor, Community Member</li>
+<li>Kris Hithgoda, Community Member</li>
+<li>Koon, Potential Q</li>
+<li>Mim Bartlett, MD Mim Bartlett Consulting</li>
+<li>Parvinder Gill, Counsellor</li>
+<li>Jenny Lobato, Community</li>
+<li>Eileen Clark, Counsellor</li>
+<li>Adam Bratt, Lawyer</li>
+<li>Joy Proffitt, None</li>
+<li>Kong-Wai Wong, Australian Citizen since 2003</li>
+<li>Glenda Kickett, Whadjuk Noongar Elder</li>
+<li>Derrin Stent, Founder</li>
+<li>Peri Coleman, Community Member</li>
+<li>Khristine Ryan, Community Member</li>
+<li>Tanel Jan Palgi, Freelance Journalist</li>
+<li>Kenneth Gitahi, Lawyer</li>
+<li>Lisa Ingram, Community Member</li>
+<li>Helen Fletcher-Kennedy, COO, Australia-Indonesia Centre, Monash University</li>
+<li>Amanda Bentley, Community Member</li>
+<li>Jill Jackson, Community Member</li>
+<li>Lou Finch, Citizen</li>
+<li>Dianna Nixon, Music Theatre Projects</li>
+<li>Erika Martino, VicHealth Research Fellow</li>
+<li>Sian Bennett, Community Member</li>
+<li>Hawanatu Bangura, Social Worker and Filmmaker</li>
+<li>Neil Greet, Private</li>
+<li>Philippa Jahn, Community Member</li>
+<li>Rosemary Miller, CARAD Centre for Asylum Seekers Refugees and Detainees</li>
+<li>Laura Luna, Community, Arts, Culture Professional</li>
+<li>Coleen MacKinnon, Principal and Founder, Inclusivity Quotient</li>
+<li>Sarah Reid, Community Member</li>
+<li>Sharon Gudu, Community Member</li>
+<li>Trisha Carlton, Public</li>
+<li>Tony, CEO Garnduwa Amboorny Wirnan</li>
+<li>Amanda Lovitt, Celebrant</li>
+<li>Yitong Jin, Refugee Lawyer</li>
+<li>Rosie Fisher, Arts Worker</li>
+<li>Koenraad VA, Navigation360 Lead Resource Person</li>
+<li>Fiona Steele, Community Member</li>
+<li>Mark Thomson, Retired APS Officer</li>
+<li>Teresa Lombardo, DEI Lead</li>
+<li>Georgine Clarsen, Retired</li>
+<li>David Andrews, Lawyer</li>
+<li>Rani Nandan, Community Member</li>
+<li>Jennie De Neefe, Surfcoast for Reconciliation</li>
+<li>Julia Imrie, Community Member</li>
+<li>Susan Forde, Community Member</li>
+<li>Maha Melhem, Lawyer</li>
+<li>Lisa Hartley, Associate Professor, Centre for Human Rights Education, Curtin University</li>
+<li>Christine Guirguis, Women&apos;s Health</li>
+<li>Presley Chihuri, Community Member</li>
+<li>Francesca Meehan, Ally</li>
+<li>Shail Akhil, Community Member</li>
+<li>Brian Nugawela, Barrister</li>
+<li>Faith Materu, Community Member</li>
+<li>Dr Skye R Tinevimbo Chirape, Postdoctoral Research Fellow, Tokyo, Japan</li>
+<li>Maree Kitscha, Retiree</li>
+<li>Taylor Richardson-Marlton, Griffith University</li>
+<li>Cate Grace, Community Advocate</li>
+<li>Sandra Goerling, Community Member</li>
+<li>Emily Bird, Community Member</li>
+<li>Alanna Somers, Community Member</li>
+<li>Athuai Mou, CEO - Supa Magontong Group</li>
+<li>ÉMeline Alfandari, Marketing Manager</li>
+<li>Priscilla Brice, Community Member</li>
+<li>Fiona White, Lived Experience Health Advocate, Co-Founder of The Prostate Zone</li>
+<li>Serafina Maiorano, Community Member</li>
+<li>Amrita Dasvarma, Lived Experience Researcher</li>
+<li>Meg, Community Member</li>
+<li>Madhavi Johnson, Community Member</li>
+<li>Regina Kroczek, Community Member</li>
+<li>Belinda Poole, Community Member</li>
+<li>Andrew Vandenberg, Surfcoast for Reconciliation</li>
+<li>Melissa Hart, Community Member</li>
+<li>Hannah McGlade, Curtin Law School</li>
+<li>Renae Isaacs-Guthridge, Senior Lecturer</li>
+<li>Jason Lane-Scutt, Community Member</li>
+<li>Giulia Lepori, Sessional Academic</li>
+<li>Terrell Lacey, Community Member</li>
+<li>Sumaiyah, Teacher</li>
+<li>Virginia Purcell, Community Member</li>
+<li>Lata Satyen, Associate Professor in Psychology</li>
+<li>Ferdi Hepworth, Philanthropy Lead</li>
+<li>Richa Joshi, Unmuting You</li>
+<li>Christopher Christie, Founder and CEO, BlackPath</li>
+<li>Peter Anthony, Journalism</li>
+<li>Narayan Mukkavilli, Community Member</li>
+<li>Jonathan Burrill, Community Member</li>
+<li>John Na&apos;em Snobar, Community Member</li>
+<li>Marilyn Clarke, Librarian</li>
+<li>Sherry M Bell, Grow Fundraising &amp; Consulting Inc.</li>
+<li>Caroline D&apos;Cruz, Community Member</li>
+<li>Rain Jago Ratajczak, Lawyer, Executive Coach, Writer, Genocide Scholar</li>
+<li>Kwaku Dad Abu-Bonsrah, University of Melbourne</li>
+<li>Frances Feenstra, Deputy Chair, Moonah House / Director, Hoop Consulting</li>
+<li>Ian Law, Anti-Discrimination Advocate</li>
+<li>Liliana Sanchez, Anthropologist / Cultural Educator</li>
+<li>Mary Estcourt, Retired Teacher</li>
+<li>Kim Asher, Refugee Activist</li>
+<li>Kelli McCluskey, Chief Executive Artist</li>
+<li>Ellie Large, Concerned Citizen</li>
+<li>Charlotte Solomon, Community Member</li>
+<li>Lynne Pantaur, Community Member</li>
+<li>Deb Carlon, None</li>
+<li>Olivia Johnston, Academic</li>
+<li>Barbara Phi, Community Member</li>
+<li>Min Wah Voon, Consultant</li>
+<li>Niranjala Galhenage, Retired Community Member</li>
+<li>Nooreen Harris, Community Member</li>
+<li>Mark Lomas, English Boat Person</li>
+<li>Mark Wellard, Interested Community Member</li>
+<li>Dr Pippa Tandy, Retired</li>
+<li>Lyndall Moore, Community Member</li>
+<li>Aralia Schmidt, Cultural Facilitation Lead, KWC</li>
+<li>Kerry Dickinson, Community Member</li>
+<li>Karrie McCulloch, Educator &amp; Youth Worker</li>
+<li>Stefanie Flowers, Macquarie University</li>
+<li>Julianna Shearn, Director, Shearn HR Legal</li>
+<li>Elisheva Madar, Peacebuilding and Policy Worker</li>
+<li>Morag Glen, Community Member</li>
+<li>Lee Doepel Grien, Community Member</li>
+<li>Anne-Maree Liddelow, Educator</li>
+<li>Sarah Lenhard, Community Member</li>
+<li>Aalia Nasser, Student</li>
+<li>Raelene Bartlett, RTO Doctor</li>
+<li>Anita Gupta, Clinical Psychologist</li>
+<li>Adele Rice AM, Educator and Refugee Advocate</li>
+<li>Samgiita, Dementia Doula</li>
+<li>Farida Fozdar, Professor, Curtin University</li>
+<li>Lucy Tatham, Legal Counsel</li>
+<li>Ajith Rajapaksa, People for Human Rights &amp; Equality</li>
+<li>Jennifer Coughran, Community Member</li>
+<li>Sarah Fulton, Lawyer</li>
+<li>Liz Murray, Primary School Teacher</li>
+<li>Jacynta Krakouer, Enterprise Fellow, Adelaide University</li>
+<li>Kwanele Asante, Co-Founder PxP Africa</li>
+<li>Debbie Miller, Voices of Moncrieff</li>
+<li>Jenny Edwards, Director, Light House ArchiScience</li>
+<li>Anna Wardle, Queensland University of Technology</li>
+<li>Marissa Williams, Journalist</li>
+<li>Cathryn Groves, Community Member</li>
+<li>Ivy Chen, Geologist</li>
+<li>Jules, Community Member</li>
+<li>Dr Pauline Manley, Teacher</li>
+<li>Pamela McPherson, Community Member</li>
+<li>Michael Gravener, Cater</li>
+<li>Nola Smith, Community Member</li>
+<li>Ron Lucerne-Knight, Renewable Power Originator</li>
+<li>Jaspreet Kaur, Lawyer</li>
+<li>Apajok Biar, CEO Multicultural Community Services of Central Australia</li>
+<li>Beth Raps, Founder, RAISING CLARITY</li>
+<li>Sara Timms, Teacher - Victorian Education Department</li>
+<li>Joan Christensen, Community Member</li>
+<li>James Kerr, Gudjala - Proud First Nations Man</li>
+<li>Corinne Brown, Behavioural Based Safety Specialist</li>
+<li>Suzanna Clarke, Author</li>
+<li>Fatima Padshah, Community Member</li>
+<li>Sharan Kraemer, Education MSCWA</li>
+<li>Jill Lyall, Community Member</li>
+<li>Jacquie Thomson, Safer Ways Campaign</li>
+<li>Melanie Van de Sande, Community Member</li>
+<li>Annabelle Nunn, Community Member</li>
+<li>Martin Mulchrone, Community Member</li>
+<li>Kathryn B, Community Member</li>
+<li>M Vee, Community Member</li>
+<li>Dr. Samiul Hossain, Psychologist</li>
+<li>Emmanuel &apos;Emo&apos; Majok, Entertainer</li>
+<li>Bron Williams, Community Member</li>
+</ol>
