@@ -93,3 +93,4 @@ You do not stand alone.
 32. Brenda Gaddi, Women of Colour Australia
 33. Carol Kiernan, Co-Founded Honour a Woman
 34. Douglas Mathews, Drilling Consultant
+35. Dr Lara Palombo, Lecturer in Criminology, Macquarie University
