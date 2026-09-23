@@ -175,7 +175,7 @@ You do not stand alone.
 <li>Jenny Lobato, Community</li>
 <li>Eileen Clark, Counsellor</li>
 <li>Adam Bratt, Lawyer</li>
-<li>Joy Proffitt, None</li>
+<li>Joy Proffitt</li>
 <li>Kong-Wai Wong, Australian Citizen since 2003</li>
 <li>Glenda Kickett, Whadjuk Noongar Elder</li>
 <li>Derrin Stent, Founder</li>
@@ -270,7 +270,7 @@ You do not stand alone.
 <li>Ellie Large, Concerned Citizen</li>
 <li>Charlotte Solomon, Community Member</li>
 <li>Lynne Pantaur, Community Member</li>
-<li>Deb Carlon, None</li>
+<li>Deb Carlon</li>
 <li>Olivia Johnston, Academic</li>
 <li>Barbara Phi, Community Member</li>
 <li>Min Wah Voon, Consultant</li>
@@ -393,7 +393,7 @@ You do not stand alone.
 <li>Jenna Olovcic, Community Member</li>
 <li>Raylynn Benn, Community Member</li>
 <li>Ahmad Shady RMA AFMIA, A2Z Consult</li>
-<li>Mona Khaled, None</li>
+<li>Mona Khaled</li>
 <li>Nancy Collins, Partner, King &amp; Collins</li>
 <li>Richard Matthews, Academic</li>
 <li>Jayce Naidoo, Associate Professor</li>
