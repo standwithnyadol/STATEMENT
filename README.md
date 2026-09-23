@@ -336,4 +336,29 @@ You do not stand alone.
 <li>Bron Williams, Community Member</li>
 <li>Rebecca Faulkner, Community Member and Political Party Member</li>
 <li> Monica Harte, Social Worker and Australian Services Union Delegate</li>
+  <li>Mera Sivanesan, Lawyer</li>
+<li>Sean Mulholland, Psychotherapist/Business Owner</li>
+<li>Maria Snow-Hinkson, Humanist &amp; Community Member</li>
+<li>Noelle Martin, Lawyer, Award-Winning Activist, PhD Candidate</li>
+<li>Darrel Le Mercier, Community Member</li>
+<li>Robyn Burton, Community Member</li>
+<li>Tamar Hopkins, Lawyer</li>
+<li>Laurine Hurley, Academic, Australian Catholic University</li>
+<li>Lorraine Zeni, Individual</li>
+<li>Sue Jackson, Private Citizen</li>
+<li>Pravie Kears, Community Member</li>
+<li>Jo Daniels, Community Member</li>
+<li>Meike Kuhne, Australian Citizen</li>
+<li>Freya Higgins-Desbiolles, Academic</li>
+<li>Melanie Macfarlane, CEO &amp; Principal Migration Agent, MMMigration &amp; Recruitment</li>
+<li>Fiona Pitt, Community Member</li>
+<li>Gabrielle Geradts, Community Member and Teacher of Future Generations</li>
+<li>Jade Blair, Workforce DEI Senior Advisor</li>
+<li>Urho Redcliffe, Community</li>
+<li>Matilda Martinez, Lawyer</li>
+<li>Leanne Weber, Adjunct Professor, Canberra Law School</li>
+<li>Helen Watson, Community Member</li>
+<li>Julie Morsillo, Community Psychologist</li>
+<li>Athanasia Price, Community Member</li>
+<li>Mark Gebbie, Architect</li>
 </ol>
