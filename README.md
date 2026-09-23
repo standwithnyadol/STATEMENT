@@ -66,6 +66,7 @@ You do not stand alone.
 <li>Mibenge Nsenduluka, Founder - Back Cover Media</li>
 <li>Suresh Rajan, Community Advocate</li>
 <li>Tina Nematian, Founder, One Planet Migration</li>
+<li>Sisonke Msimang</li>
 <li>Maria Osman GAICD Hon LLD, Board Director</li>
 <li>Elizabeth Lang, Co-Founder, Racism Register</li>
 <li>Mona Shindy, Mona Shindy Foundation</li>
