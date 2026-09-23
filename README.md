@@ -460,5 +460,5 @@ You do not stand alone.
 <li> Sharon Matashu, Lawyer</li>
 <li>Manana Johnson, Community Leader</li>
 <li> Jesca, Kenyan Community Member</li>
-<l1> Ana Tiwary, Diversity in Australian Media</l1>
+<li> Ana Tiwary, Diversity in Australian Media</li>
 </ol>
