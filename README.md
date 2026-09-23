@@ -336,8 +336,8 @@ You do not stand alone.
 <li>Emmanuel &apos;Emo&apos; Majok, Entertainer</li>
 <li>Bron Williams, Community Member</li>
 <li>Rebecca Faulkner, Community Member and Political Party Member</li>
-<li> Monica Harte, Social Worker and Australian Services Union Delegate</li>
-  <li>Mera Sivanesan, Lawyer</li>
+<li>Monica Harte, Social Worker and Australian Services Union Delegate</li>
+<li>Mera Sivanesan, Lawyer</li>
 <li>Sean Mulholland, Psychotherapist/Business Owner</li>
 <li>Maria Snow-Hinkson, Humanist &amp; Community Member</li>
 <li>Noelle Martin, Lawyer, Award-Winning Activist, PhD Candidate</li>
@@ -362,7 +362,7 @@ You do not stand alone.
 <li>Julie Morsillo, Community Psychologist</li>
 <li>Athanasia Price, Community Member</li>
 <li>Mark Gebbie, Architect</li>
-  <li>Louise McFarlane, Community</li>
+<li>Louise McFarlane, Community</li>
 <li>David Gardner, Lawyer</li>
 <li>Dee Veasey, Citizen</li>
 <li>Claire Evaux, Community Member</li>
@@ -428,7 +428,7 @@ You do not stand alone.
 <li>Simone Ward, Lawyer</li>
 <li>Duc Dau, Honorary Research Fellow, University of Western Australia</li>
 <li>Kathy Greenwood, Psychotherapist</li>
-<li>Rachel Buckeridge, 30 Boulevard de la Baleine</li>
+<li>Rachel Buckeridge</li>
 <li>Elisha Butt, Lawyer &amp; Academic</li>
 <li>Rachel Apelt, Community Member</li>
 <li>Madi Chaudhry, Pharmacist</li>
