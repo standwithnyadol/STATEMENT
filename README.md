@@ -361,4 +361,98 @@ You do not stand alone.
 <li>Julie Morsillo, Community Psychologist</li>
 <li>Athanasia Price, Community Member</li>
 <li>Mark Gebbie, Architect</li>
+  <li>Louise McFarlane, Community</li>
+<li>David Gardner, Lawyer</li>
+<li>Dee Veasey, Citizen</li>
+<li>Claire Evaux, Community Member</li>
+<li>Patricia Beattie, Retired Educator, Indigenous Education</li>
+<li>Deanne Wilkie, Business Owner</li>
+<li>Aanchal White, Community Member</li>
+<li>Kareen Carberry, Community Member</li>
+<li>Gabrielle Hodson, TAFE Teacher in Community Services</li>
+<li>Mona Liban, Writer</li>
+<li>Brent McGregor, Surf Coast For Reconciliation</li>
+<li>Anne Rogers, Retiree, Supporter of CARAD</li>
+<li>Carey Hannaford, Geoscientist</li>
+<li>Rose Bowen, Human Being</li>
+<li>Anjali Mukund, Community Member</li>
+<li>Mark Morris, NFP Leader</li>
+<li>Elizabeth Barnes, Community Member</li>
+<li>Aimee Potter, Public</li>
+<li>Mandy Johnson, Business Author</li>
+<li>Dorothy Skinn, Retired Local Government CEO</li>
+<li>Dieynabou Bah, Community Member</li>
+<li>Katharina Caffin, Retired International School Director</li>
+<li>Elizabeth Blair, Community Member</li>
+<li>Jennifer Tsatsaronis, Community Member</li>
+<li>Simonette Carter, Digital Accessibility Specialist</li>
+<li>Annette Cole, Amplify Black Women</li>
+<li>Amona, Community Member</li>
+<li>Prisca Ochan-Thou, Community Member</li>
+<li>Jenna Olovcic, Community Member</li>
+<li>Raylynn Benn, Community Member</li>
+<li>Ahmad Shady RMA AFMIA, A2Z Consult</li>
+<li>Mona Khaled, None</li>
+<li>Nancy Collins, Partner, King &amp; Collins</li>
+<li>Richard Matthews, Academic</li>
+<li>Jayce Naidoo, Associate Professor</li>
+<li>Emanuela Moretto, Academic</li>
+<li>Tae Kim, Immigrant</li>
+<li>Donna Baines Faye, Community Member</li>
+<li>Jing-ting Chan, Community Member</li>
+<li>Fiona Snodgrass, Community Member</li>
+<li>Dr Andrea Meehan, Paediatrician</li>
+<li>Jose Antonio Michell De Gregorio, Academic, The University of Sydney</li>
+<li>Thando Sikwila, Musician</li>
+<li>Fay Osaghae, Student</li>
+<li>Carlyle Wells-Peris, Business Owner/MD Wells-Peris Group</li>
+<li>Delphine Geia, Self-Employed</li>
+<li>Nelly Mohibi, Community Member</li>
+<li>Mary Ngomamiti, Community Member</li>
+<li>Ranya, Community Member</li>
+<li>Toby Millar, Senior Specialist - DEI</li>
+<li>Melissa Rutherford, Community Member</li>
+<li>Julia Miller, Community Engagement &amp; Growth, Flinders University</li>
+<li>Margaret Gilbert, Community Member</li>
+<li>Jon Eddy, Leadership Development Professional</li>
+<li>Shanna Fuz, Community Member</li>
+<li>Dani McCaffrey, Prevention of Violence Against Women</li>
+<li>Lynn Davis, Careers Practitioner, Au Centre for Career Ed</li>
+<li>Tony Irvine, Community Member</li>
+<li>Fernanda Peñaloza, Anti-racist Educator and Researcher, PhD Lecturer, University of Sydney</li>
+<li>Leena Bakshi, University of Western Australia</li>
+<li>Mary McGough, CLC</li>
+<li>Nadishka Weerasuriya, PhD Candidate/Sessional Academic</li>
+<li>Erin O'Donnell, Associate Professor, University of Melbourne</li>
+<li>Simone Ward, Lawyer</li>
+<li>Duc Dau, Honorary Research Fellow, University of Western Australia</li>
+<li>Kathy Greenwood, Psychotherapist</li>
+<li>Rachel Buckeridge, 30 Boulevard de la Baleine</li>
+<li>Elisha Butt, Lawyer &amp; Academic</li>
+<li>Rachel Apelt, Community Member</li>
+<li>Madi Chaudhry, Pharmacist</li>
+<li>Sunili Govinnage (they/them), Community Member, Former Legal Aid / Pro Bono Lawyer Supporting People Seeking Humanitarian Assistance</li>
+<li>Hala Abdelnour, CEO</li>
+<li>Talie Star, Systems Change Advisor/Podcaster</li>
+<li>Susie Breuer, Community Member</li>
+<li>Matthew Rayner, Australian Greens</li>
+<li>Kanishka Jayasuriya, Academic</li>
+<li>Dr Barri Phatarfod, Founder Doctors for Refugees</li>
+<li>Monica Kane, Group CEO / Weitj Investments</li>
+<li>Elizabeth Tunha, Senior Change Manager</li>
+<li>Jaqueline Froud, Mediator</li>
+<li>Dr Laurel Johnson, Senior Research Fellow, UQ</li>
+<li>Ruth Game, Community Member</li>
+<li>Mereline Murimwa, Community Member</li>
+<li>Vikki Schmidt, Community Member</li>
+<li>Rizah Levi, National RAP Lead</li>
+<li>Tiffany Schuback, CEO First Nations and Pacific Womens Foundation</li>
+<li>Vuma Phiri, Community Member</li>
+<li>Michelle Lutwyche, Australian</li>
+<li>Greg Battye, Retired Academic and Writer</li>
+<li>Shiru, Tosha Parenting</li>
+<li>Mawien Ariik, Community Member</li>
+<li>K Kumar, Community Member</li>
+<li>Amal Osman, Community Member</li>
+<li>Jason Manaley, Support Worker</li>
 </ol>
