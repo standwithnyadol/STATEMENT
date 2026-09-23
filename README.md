@@ -457,5 +457,6 @@ You do not stand alone.
 <li>Amal Osman, Community Member</li>
 <li>Jason Manaley, Support Worker</li>
 <li>Dr Musharrat J. Ahmed-Landeryou, Occupational Therapist</li>
-<li> Sharon Matashu, Lawyer</li>  
+<li> Sharon Matashu, Lawyer</li>
+<li>Manana Johnson, Community Leader</li>
 </ol>
