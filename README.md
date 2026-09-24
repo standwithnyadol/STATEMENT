@@ -511,4 +511,5 @@ You do not stand alone.
 <li>Grace Edward, Community Member</li>
 <li>Marjion Vagg</li>
 <li>Tony Noonan, Independent Director</li>
+<li>Agnes Wilson, Copywriter/Poet/Playwright</li> 
 </ol>
