@@ -485,7 +485,7 @@ You do not stand alone.
 <li>Alice Steedman, Built Environment Specialist</li>
 <li>Luel Muoth Chiok, Lecturer / Gambella University</li>
 <li>Julie Macken, Justice and Peace Facilitator</li>
-<li>Annie Sunner Cross, Private</li>
+<li>Annie Sunner Cross</li>
 <li>Tharini Apolline Rouwette, CEO, Allies in Colour - National, Independent, Multicultural Peak Body</li>
 <li>Michael Jones, Solicitor</li>
 <li>Robert Grossmann, Community Member</li>
