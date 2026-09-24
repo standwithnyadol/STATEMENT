@@ -461,4 +461,54 @@ You do not stand alone.
 <li>Manana Johnson, Community Leader</li>
 <li> Jesca, Kenyan Community Member</li>
 <li> Ana Tiwary, Diversity in Australian Media</li>
+  <li>Mylan Vu, PR Consultant</li>
+<li>Matshepo M, Masakhane NSW Community Advocacy</li>
+<li>Angela Christie, Community Member</li>
+<li>Bernard Baffour, Lecturer, Australian National University</li>
+<li>Caitlin Figueiredo, 2024 ACT Young Australian of the Year</li>
+<li>Mike Flanagan, School Principal DECYP Tasmania</li>
+<li>Jason Teoh, HR Professional</li>
+<li>Marg Coombes-Pearce, Community member, grandma, former teacher</li>
+<li>Yara Ben Safe, Law Graduate</li>
+<li>Simon Woodley, Concerned citizen</li>
+<li>David Kernohan, Community Member</li>
+<li>Dor Akech Achiek, CEO, WSMRC</li>
+<li>Tabitha Gikonyo, Community Member</li>
+<li>Jeffah Thabach, Social Worker</li>
+<li>Quynh-Tram Trinh, Board Chair</li>
+<li>Peta Samuels, Retired teacher</li>
+<li>Christopher M Cummings, Media</li>
+<li>Paul Starr, Director</li>
+<li>Edidiong Udo, Graphic Designer</li>
+<li>Michelle Rogers, Board Chair Rainbow Futures WA</li>
+<li>Idil Sudi, Mother of African Children born and raised in Australia</li>
+<li>Alice Steedman, Built Environment Specialist</li>
+<li>Luel Muoth Chiok, Lecturer / Gambella University</li>
+<li>Julie Macken, Justice and Peace Facilitator</li>
+<li>Annie Sunner Cross, Private</li>
+<li>Tharini Apolline Rouwette, CEO, Allies in Colour - National, Independent, Multicultural Peak Body</li>
+<li>Michael Jones, Solicitor</li>
+<li>Robert Grossmann, Community Member</li>
+<li>Jenny Malapetsas, CALD communications</li>
+<li>Hanan Khayre, Community Member</li>
+<li>A Hassan, Community Member</li>
+<li>Dishi Gahlowt, Community Member</li>
+<li>Sean Badley, Leadership Consultant Facilitator</li>
+<li>Amin Abbas, Community Member</li>
+<li>Alex Spath</li>
+<li>Annabel Brown, Policy Adviser</li>
+<li>Julianne Schultz, Author</li>
+<li>Rachel Clausen, Community Member</li>
+<li>Anna Hutchens, Manager, Newlands Neighbourhood House</li>
+<li>Mabel Abatania, Director- MABATAN Consulting</li>
+<li>Daria O’Neill, Development Consultant to For Purpose organisations</li>
+<li>Amanda Gillett, Community Member</li>
+<li>Sally Stevenson AM, Community Member</li>
+<li>Samantha Jane Griffin, OAM, HEAL Arts Psychotherapist</li>
+<li>Caroline Fleay, Social Change Institute</li>
+<li>Chandni Dhingra, Consultant</li>
+<li>Jennifer (Jenn) Tranter, Greens candidate for Adelaide Hills Council, Member: Religious Society of Friends (Quakers): Convenor, Quaker Service Australia SA/NT</li>
+<li>Grace Edward, Community Member</li>
+<li>Marjion Vagg</li>
+<li>Tony Noonan, Independent Director</li>
 </ol>
