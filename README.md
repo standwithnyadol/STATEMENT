@@ -719,4 +719,6 @@ You do not stand alone.
 <li>Syed Muzaffar Ahmed, Community Member</li>
 <li>Julianne Beel, Community Member</li>
 <li>Nhial Kim, Community Member</li>
+<li>Cheyenne O'Brien, Peer Worker</li>
+<li>Jay Song, CEO, Jay Song Consulting</li>
 </ol>
