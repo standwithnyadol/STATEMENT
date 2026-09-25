@@ -714,4 +714,5 @@ You do not stand alone.
 <li>Candice Feuerring, Community Member</li>
 <li>Madit Deng, Community Member</li>
 <li>Rachel Chesshire, Community member, activist, advocate</li>
+<li>Sonia Perkins, World Citizen</li>
 </ol>
