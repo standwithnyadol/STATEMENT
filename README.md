@@ -710,4 +710,7 @@ You do not stand alone.
 <li>CC Turner, Community Member</li>
 <li>Ashleigh Newnham, Community Member</li>
 <li>Andrew Gavin Paterson, Retired Logistics and Transport Professional</li>
+<li>Kate Lamb, Community Member</li>
+<li> Candice Feuerring, Community Member</li>
+<li>Madit Deng, Community Member</li>
 </ol>
