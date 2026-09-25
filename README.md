@@ -717,4 +717,5 @@ You do not stand alone.
 <li>Sonia Perkins, World Citizen</li>
 <li>Judith Eriksen, Community Member</li>
 <li>Syed Muzaffar Ahmed, Community Member</li>
+<li>Julianne Beel, Community Member</li>
 </ol>
