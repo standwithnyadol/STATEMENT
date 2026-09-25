@@ -721,4 +721,5 @@ You do not stand alone.
 <li>Nhial Kim, Community Member</li>
 <li>Cheyenne O'Brien, Peer Worker</li>
 <li>Jay Song, CEO, Jay Song Consulting</li>
+<li>Stella Browne, Community Member</li>
 </ol>
