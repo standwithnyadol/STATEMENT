@@ -718,4 +718,5 @@ You do not stand alone.
 <li>Judith Eriksen, Community Member</li>
 <li>Syed Muzaffar Ahmed, Community Member</li>
 <li>Julianne Beel, Community Member</li>
+<li>Nhial Kim, Community Member</li>
 </ol>
