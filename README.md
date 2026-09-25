@@ -709,5 +709,5 @@ You do not stand alone.
 <li>Dawn Barrington, Community Member</li>
 <li>CC Turner, Community Member</li>
 <li>Ashleigh Newnham, Community Member</li>
-
+<li>Andrew Gavin Paterson, Retired Logistics and Transport Professional</li>
 </ol>
