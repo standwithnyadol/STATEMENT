@@ -715,4 +715,5 @@ You do not stand alone.
 <li>Madit Deng, Community Member</li>
 <li>Rachel Chesshire, Community member, activist, advocate</li>
 <li>Sonia Perkins, World Citizen</li>
+<li>Judith Eriksen, Community Member</li>
 </ol>
