@@ -716,4 +716,5 @@ You do not stand alone.
 <li>Rachel Chesshire, Community member, activist, advocate</li>
 <li>Sonia Perkins, World Citizen</li>
 <li>Judith Eriksen, Community Member</li>
+<li>Syed Muzaffar Ahmed, Community Member</li>
 </ol>
