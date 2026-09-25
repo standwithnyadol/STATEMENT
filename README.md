@@ -711,6 +711,7 @@ You do not stand alone.
 <li>Ashleigh Newnham, Community Member</li>
 <li>Andrew Gavin Paterson, Retired Logistics and Transport Professional</li>
 <li>Kate Lamb, Community Member</li>
-<li> Candice Feuerring, Community Member</li>
+<li>Candice Feuerring, Community Member</li>
 <li>Madit Deng, Community Member</li>
+<li>Rachel Chesshire, Community member, activist, advocate</li>
 </ol>
