@@ -511,5 +511,203 @@ You do not stand alone.
 <li>Grace Edward, Community Member</li>
 <li>Marjion Vagg</li>
 <li>Tony Noonan, Independent Director</li>
-<li>Agnes Wilson, Copywriter/Poet/Playwright</li> 
+<li>Agnes Wilson, Copywriter/Poet/Playwright</li>
+  <li>Katie Clancy, Community Member</li>
+<li>Andrew Forbes, Community Member</li>
+<li>Sophie McNeill, The Greens (WA) MP</li>
+<li>Alison Holland, Academic Macquarie University</li>
+<li>Richard, Community Member</li>
+<li>Violet Roumeliotis, CEO SSI</li>
+<li>Louise Sergent, CEO, Today Strategic Design</li>
+<li>Campbell Vearing, Community Member</li>
+<li>Lisa B, Community Member</li>
+<li>James Winter, Community Member</li>
+<li>Richard Watt, OAP</li>
+<li>Jok Madut Jok, The Foundation</li>
+<li>Ana Constantinou, Poet</li>
+<li>Amita Jhoti, SSI</li>
+<li>Mark Vorherr, Average White Bloke</li>
+<li>Chloe Warsal, Student</li>
+<li>Peter Neale, Retired</li>
+<li>Dr Cassandra Goldie AO, CEO, ACOSS</li>
+<li>Rod Blythe, Community Member</li>
+<li>Angela Tsoukatos, Chair/Non-Executive Director</li>
+<li>Haydn Davey Jr, Community Member Port Lincoln SA 5606. Kokatha, Wirangu and Barngarla Peoples West Coast S.A.</li>
+<li>Deborah Neal, Community Member</li>
+<li>Shiree Pilkinton, Community Member</li>
+<li>Sheryl Minns, Community Member</li>
+<li>Atul Vidhata, Citizen</li>
+<li>Jose Blanco Victor, Community Member</li>
+<li>Melinda Crumblin, Australian</li>
+<li>Denise Kay, Community Member</li>
+<li>Michael Dawe, Nurse</li>
+<li>Lorraine Wharton, Community Member</li>
+<li>Emily Yuille, Community Advocate, ally of Multicultural Australia, founder of African Australian Communities United</li>
+<li>Mary Bukjiok, South Sudanese Community</li>
+<li>Kim Faulkner, Community Member</li>
+<li>Laurence Stiller, Community Member</li>
+<li>Jenny Fraser, Creative / cyberTribe</li>
+<li>Conny Rodgers, QPASTT HEAL</li>
+<li>Kath Murphy, Community Member</li>
+<li>Jude Soussan, Community Member</li>
+<li>Tilahun Hailu, Community Member</li>
+<li>Michael Cliff, Community Member</li>
+<li>Jennifer McCown, Community Member</li>
+<li>Julie Thimas, Community Member</li>
+<li>David Jones, Community Member</li>
+<li>Kurt Iveson, Professor of Urban Geography</li>
+<li>Jessica Lloyd, Community Member</li>
+<li>Michele Dowlman, Ally and Anti-racist</li>
+<li>Gordon Reid, Retired teacher</li>
+<li>Meredith Griffiths, Community Member</li>
+<li>Barbara Thornton, Community Member</li>
+<li>Sonia Went, Community Member</li>
+<li>Catherine McLaughlin, Community Member</li>
+<li>Edward Carroll, State President, Queensland Progressives party</li>
+<li>Elizabeth Shears, Community Member</li>
+<li>Angela Brooks, Disability pensioner</li>
+<li>Oishik Sircar, Senior Lecturer, Melbourne Law School</li>
+<li>Christine McConnell, Artist</li>
+<li>Aaisha Slee, Community Member</li>
+<li>Check Tan, Community Member</li>
+<li>Laraine Hinds, Community Member</li>
+<li>Alexander Baldwin, Citizen of Australia, guest of the First Nations People</li>
+<li>Betty Macharia, ACT Community Leader</li>
+<li>Fiona Dixon, Australian</li>
+<li>Azza Elfil, Community Member</li>
+<li>Abdulrazak Umoru, Community Member</li>
+<li>Nyachan Chuol, Mission Australia</li>
+<li>Jacqueline Holyoak, Community Member</li>
+<li>Daisy Chelangat, Community Member</li>
+<li>Carly Wickham, Community Member</li>
+<li>Karen Bradbury, Social worker</li>
+<li>Deng Biong, Community Member</li>
+<li>Sam Keast, Academic / Victoria University</li>
+<li>Sandy dos Anjos, Community Member</li>
+<li>Sundus Mohamed, Business owner</li>
+<li>Jennifer White, Community Member</li>
+<li>Tanya Jackson-Vaughan, Founder/TJV Consulting & Coaching</li>
+<li>Uzhyekachi Elsie Nwaomah, Community Member</li>
+<li>Stephanie Fletcher-Lartey, Community Member</li>
+<li>Kinza Abdul-Aziz, Senior Migration Lawyer, Women’s Legal Service Victoria</li>
+<li>Natalie Perkins, Community Member</li>
+<li>Rod Mackenzie, Community Member</li>
+<li>Meg Schwarz, Community Engagement Facilitator</li>
+<li>Zelda Hean, Community Member</li>
+<li>Harry Rajeswaran, Community Member</li>
+<li>Elizabeth, Community Member</li>
+<li>Sarah Lloyd OAM, Community Member</li>
+<li>Janet Burchill, Artist</li>
+<li>Candace Wong, Software Engineer, Chuffed.org</li>
+<li>Lucrecia Cardona Velez, Community Member</li>
+<li>Janina Catalao Dionisio Murta, PhD student, UTS</li>
+<li>Bella Shamal, Community Member</li>
+<li>Dion Storey, Community Member</li>
+<li>Tasneem Chopra, The Culture Lens</li>
+<li>Cath O'Connor, Community Member</li>
+<li>Nyra Simon, Community Member</li>
+<li>Jo Dodds, Community Member, mental health worker, climate worker</li>
+<li>Rose Kizinska, Writer</li>
+<li>Nicole Olivieri, Community Member</li>
+<li>Fleur Taylor-Lumb, Community Member</li>
+<li>Emma Smith, Community Member</li>
+<li>Celia Karpfen, Community Member</li>
+<li>Adele Rice AM, Educator, refugee advocate, community member</li>
+<li>Brigit Anderson, Community Member</li>
+<li>Davin Kerr, Community Member</li>
+<li>Rosie McDonell, Community Member</li>
+<li>Tharanga De Silva, State Director WA Settlement Services International</li>
+<li>Tobias Jack Seator, Community Member</li>
+<li>Baden Offord AO, Emeritus Professor, Centre for Human Rights Education, Curtin University</li>
+<li>Marg Caithness, Community member, volunteer, occasional activist</li>
+<li>Jack Goodrich, Data Scientist</li>
+<li>Nyagoa Nyuon, Co founder @Catwalk to Freedom</li>
+<li>Rubia De Oliveira, Community Member</li>
+<li>Kate Driver, Community Member</li>
+<li>Josie Ajak, Primary School Educator</li>
+<li>Nicky Pelletier, Community Member</li>
+<li>Jane Seymour, Retired</li>
+<li>Taleen Lin, University of Sydney</li>
+<li>Tania Morris, Community Member</li>
+<li>Dr Usha M. Rodrigues, CSU</li>
+<li>Myfan Jordan, La Trobe University</li>
+<li>Helen Basili, Mental health social worker, private practice</li>
+<li>Bronwen Algate, Australian Citizen</li>
+<li>Jan Lang, Community Member</li>
+<li>Shayne Annett, Community Member</li>
+<li>Libby Hart, Writer</li>
+<li>Anna Burrows, Community Member</li>
+<li>Deborah Hart, Counsellor</li>
+<li>Rae Phillips, Community Member</li>
+<li>Peter Slattery, Community Member</li>
+<li>Sharyn Moran, Retired</li>
+<li>Tom Eddy, Town Planner</li>
+<li>Nigel Healy, Teaching academic, Edith Cowan University</li>
+<li>Dr Linda AppiahKubi, Geriatrician</li>
+<li>Greta Morton Elangué, Curator/filmmaker/historian</li>
+<li>Rita Hockley, Community Member</li>
+<li>Jennifer Argyle, Community Member</li>
+<li>Sara Sinada, Community Member</li>
+<li>Claire, Community Member</li>
+<li>Patrice Hawkins, Community Member</li>
+<li>Lisa Alexander, Community Member</li>
+<li>Nduta Gathoga, Community Member</li>
+<li>Sam P, Community Member</li>
+<li>Kieran Dell, Writer</li>
+<li>Kerri Strong, Community Member</li>
+<li>Rebecca Silvester, Community Member</li>
+<li>Eva Mackinley, Community Member</li>
+<li>Deb Stevens, Community Member</li>
+<li>MaryAnn Uechtritz, Community Member</li>
+<li>Jesse Loughnan, Psychiatry Registrar</li>
+<li>Camilla Robson, Educator</li>
+<li>Bridget Patten, Community Member</li>
+<li>Lucas Kussowski, Marketing Coordinator</li>
+<li>Dariell Rice, Community Member</li>
+<li>Jennifer Hussey, Community Member</li>
+<li>Augusta Zeeng, Community member, refugee advocate, human who believes in truth, anti-racism ally</li>
+<li>Linda Ryle, Executive Director</li>
+<li>Tinashe Soko, Certified Practising Accountant</li>
+<li>Rachel Shankland, Community Member</li>
+<li>Margaret Morris, Community Member</li>
+<li>Dr Tracy Westerman AM, Founder, Chair Westerman Jilya Institute for Indigenous Mental Health</li>
+<li>Lieb Yat, Community Member</li>
+<li>Natalie Morgan, Community Member</li>
+<li>Peter Murphy, High school teacher</li>
+<li>Catherine Jacobs, Community Member</li>
+<li>Josephine May, Community member, historian</li>
+<li>Lou Pollard, Community Member</li>
+<li>Andrew Whalan, Community Member</li>
+<li>Tracey Ellis, Community Member</li>
+<li>Briana Morrison, CMY</li>
+<li>Christine Lattin, Community Member</li>
+<li>Caroline Kamanda, Community Member</li>
+<li>Azim Zahir, Curtin University</li>
+<li>Donna Lazarus, Health professional</li>
+<li>Hannah George, Community Member</li>
+<li>Grace Achieng, Community Member</li>
+<li>Jackie Dickenson, Community Member</li>
+<li>Andrew Garton, Filmmaker, Media and Communications Lecturer</li>
+<li>Francesco Ricatti, Associate Professor, The Australian National University</li>
+<li>Hester Wright, Community Member</li>
+<li>Mark Little, Community Member</li>
+<li>Gayle Gardner, Retired educator</li>
+<li>Indigo Willing, Respect is Rad</li>
+<li>Xabisa Ntoni, Sociologist and Community Development Practitioner</li>
+<li>Sue Turner, Drum viewer</li>
+<li>Paul Sinclair, Community Member</li>
+<li>Gill Pechey, Community Member</li>
+<li>Paul Dau, Minister of the Word, Uniting Church in Australia</li>
+<li>Jennifer Murray, School library professional DET</li>
+<li>Jennie Morrison, Community Member</li>
+<li>Andrea Kirby, Director/Talent Table</li>
+<li>Karen Allen, Community Member</li>
+<li>Liz Houston, Community Member</li>
+<li>Patricia Sharp, Community Member</li>
+<li>Rachel Haley, Community Member</li>
+<li>Nursyahirah Mohd Daud, Lawyer</li>
+<li>Dawn Barrington, Community Member</li>
+<li>CC Turner, Community Member</li>
+<li>Ashleigh Newnham, Community Member</li>
+
 </ol>
