@@ -461,7 +461,9 @@ You do not stand alone.
 <li>Manana Johnson, Community Leader</li>
 <li> Jesca, Kenyan Community Member</li>
 <li> Ana Tiwary, Diversity in Australian Media</li>
-  <li>Mylan Vu, PR Consultant</li>
+<li>Jamie Cant, The American International School of Bucharest</li>
+<li>Meredith Coote,Lived experience carer consultant</li>
+<li>Mylan Vu, PR Consultant</li>
 <li>Matshepo M, Masakhane NSW Community Advocacy</li>
 <li>Angela Christie, Community Member</li>
 <li>Bernard Baffour, Lecturer, Australian National University</li>
