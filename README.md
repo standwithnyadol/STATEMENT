@@ -722,4 +722,101 @@ You do not stand alone.
 <li>Cheyenne O'Brien, Peer Worker</li>
 <li>Jay Song, CEO, Jay Song Consulting</li>
 <li>Stella Browne, Community Member</li>
+<li>Wilton Otto, Community Member</li>
+<li>Christine McDougall, Community Member</li>
+<li>Katrina McDonnell, Community Member</li>
+<li>Christine Callihoo, Community Planner</li>
+<li>Amina Youssef, Lawyer</li>
+<li>Tinashe Gwavava, Community Member</li>
+<li>Rasha Abbas, Palestine Australia Relief and Action (PARA) Foundation</li>
+<li>Karen Cross, Citizen</li>
+<li>Paulette Kay, Supporter</li>
+<li>Vivianne Dawalibi, Director, Future Power Academy Pty Ltd</li>
+<li>Janet Donnelly, Australian</li>
+<li>Joanne Cornick, Community Member</li>
+<li>Natalie Jurisic, Community Member</li>
+<li>Jen Burman, Community Member</li>
+<li>Prabha Gulati, Consultant</li>
+<li>Nathan Brennan, First Nations</li>
+<li>Melanie Raymond, OAM, Chair, Youth Projects</li>
+<li>Annie Handley, Community Member</li>
+<li>Kirsten Meyer, Manager Violence Prevention</li>
+<li>Dave Stewart, Community Member</li>
+<li>Bronwyn O'Neill, Community Member</li>
+<li>Tina Zacher, Community Member</li>
+<li>Myli Kumarasingham, Community Member</li>
+<li>Rebecca, Community Member</li>
+<li>Sarah Janali, Janali & Co.</li>
+<li>Polly Smeaton, Change Manager</li>
+<li>Pen Larkins, Community member/artist</li>
+<li>Annabella Gnecchi Ruscone, Once Upon a Tree Pty Ltd</li>
+<li>Deborah Welch, Community Member</li>
+<li>Cathy Pak-Poy, Community Member, a regular Aussie citizen</li>
+<li>Margot Eliza Paul, Former public servant</li>
+<li>Mel Peters, Community Member</li>
+<li>Daniel Akuot Ajak Riak, Lawyer</li>
+<li>Jane Ellis, Community Member</li>
+<li>Janine Shields, Concerned citizen of brilliant multicultural society</li>
+<li>Vanessa Vladovich-Relia, Community Member</li>
+<li>Angelena Fixter, CEO, NED</li>
+<li>Liesl Oliver-Burger, Community Member</li>
+<li>Johanna De Ruyter, Community Member</li>
+<li>Elizabeth, Community Member</li>
+<li>Nesrudin Mohamed Salah, Victoria</li>
+<li>Stephanie Georgiou, Teacher with DET</li>
+<li>Julie Cannon, Community Member</li>
+<li>Vicki Sheehan, Community Member</li>
+<li>Brooke Taylor, Community Member</li>
+<li>Megan Ridgeway, Community Member</li>
+<li>Allan Shafer, Community Member</li>
+<li>Linda Mitchell, Community Member</li>
+<li>Shauna Armstrong, Community Member (taxpayer, positive contributor to society, supporter of amazing women)</li>
+<li>Kathleen McCarthy, Citizen of Australia and Ireland</li>
+<li>Jules Wilkinson, Community Member</li>
+<li>Amber Thompson, Community Member</li>
+<li>Grace Guinto, Community Member, Proud daughter of Filipino immigrants</li>
+<li>Elise Carr, Registered nurse</li>
+<li>Nawang Choden, Community Member</li>
+<li>Ingrid Simon, Community Member</li>
+<li>Christine Pitt l, Retired</li>
+<li>Dominique Johnston, Community Member</li>
+<li>Monique B, Community Member</li>
+<li>Trish ODonohue, Community Member</li>
+<li>Helen Vines, Community Member</li>
+<li>Simone Dubois, Community Member</li>
+<li>Elva Araya Cordova, Migration Manager</li>
+<li>Amanda Wise, University of Technology Sydney</li>
+<li>Trang Du, Community Member</li>
+<li>Sue Baker, Community Member</li>
+<li>Marian Wright, Community Member</li>
+<li>Kara Wood, Community Member</li>
+<li>Kay Coombs, Community Member</li>
+<li>Frances Kirkpatrick, Community Member</li>
+<li>Najma, Community Member</li>
+<li>Vinu Thomas, Community Member</li>
+<li>Karen, Community Member</li>
+<li>Mary Toomey, Community Member</li>
+<li>Hass Dellal, Australian Multicultural Foundation</li>
+<li>Marnie Slaghuis, Community Member</li>
+<li>Rebecca McDermott, Community Member</li>
+<li>Chandni Kantaria, Paramedic</li>
+<li>Brenda Dobia, Psychologist</li>
+<li>Kemi Cottingham, Community Member</li>
+<li>Aaeisha Padshah, Community Member & Student</li>
+<li>Kylie Jones, Community Member</li>
+<li>Astrid Perry, Freelance</li>
+<li>John Davey, Lawyer</li>
+<li>Amanda Kinsley, Community Member</li>
+<li>Mark Kulkens, Director / Clinical Psychologist/ @ Mark Kulkens & Associates P/L</li>
+<li>Tamerlaine Beasley, Founder and CEO Beasley Intercultural</li>
+<li>Mubashar Hasan, Adjunct Researcher, Western Sydney University</li>
+<li>Jenny Rudd, CEO + founder at Dispute Buddy</li>
+<li>Margo van der Voort van der Kleij, Lesbian radical feminist network</li>
+<li>Heidi Ernst, Community Member</li>
+<li>Bob Turner, Retired engineer</li>
+<li>Mohamed Hassan, President | Somali Society of NSW</li>
+<li>Miki Lim, Registered Migration Agent</li>
+<li>Edet E Udo, Professor. Kuwait University</li>
+<li>Jennifer Jamieson, Community Member</li>
+<li>Dipa Rao, Tech professional</li>
 </ol>
