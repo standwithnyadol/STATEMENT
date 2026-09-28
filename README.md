@@ -821,4 +821,25 @@ You do not stand alone.
 <li>Edet E Udo, Professor. Kuwait University</li>
 <li>Jennifer Jamieson, Community Member</li>
 <li>Dipa Rao, Tech professional</li>
+<li>Rhea Fawole, Principal Lawyer</li>
+<li>Eddie Cubillo, Academic/University of Melbourne</li>
+<li>Keya Saha-Chaudhury, Community Member</li>
+<li>Julianna Tan, Community Member</li>
+<li>Kate da Costa, Social Activist</li>
+<li>Aleem Ali, CEO, Welcoming Australia</li>
+<li>Peter Langdale, Teacher</li>
+<li>Caroline La Rose, Vu Consulting</li>
+<li>Aharon Neill-Stevens, CEO Social Enterprise</li>
+<li>Eloise Larsen, Research Manager</li>
+<li>Kate Bailey, SSI</li>
+<li>Catherine Connor, Community Member</li>
+<li>Kon Karapanagiotidis OAM, CEO ASRC</li>
+<li>Kathryn Hines, Community Member</li>
+<li>Katherine King, Community Member</li>
+<li>Jerastin Dubash, Community Member</li>
+<li>Diane M Cluet, Australian citizen and compassionate thinker</li>
+<li>Rebecca Pedley, Community Member</li>
+<li>Muhiyadin Hashi, Community Support</li>
+<li>Julie Butler, Psychologist</li>
+<li>Emma Pollock, Community Member</li>
 </ol>
