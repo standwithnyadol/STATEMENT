@@ -842,4 +842,26 @@ You do not stand alone.
 <li>Muhiyadin Hashi, Community Support</li>
 <li>Julie Butler, Psychologist</li>
 <li>Emma Pollock, Community Member</li>
+<li>Aurelia Pichay, Community Member</li>
+<li>Doug Cronin, Our Race Community</li>
+<li>Margaret Lovell, Adelaide University</li>
+<li>Neha Madhok	Founder, Democracy in Colour</li>
+<li>Greg Barns SC, Barrister</li>
+<li>Racine Iradukunda, Community Member</li>
+<li>Layan Adra, Student, Manipal University</li>
+<li>Louise Olliff,	Refugee Council of Australia / UNSW</li>
+<li>Anne-Marie Smit, Linguist</li>
+<li>Hugh Finn	Lecturer, Curtin University </li>
+<li>Cindy Prior, Community Member</li>
+<li>Jamal Abilmona, Higher Education Professional</li> 
+<li>Lilian M Kikuvi,	Founder</li> 
+<li>Todd Cunningham, Community Member</li>
+<li>Nilmini Fernando, Academic/Consultant Macquarie University</li>
+<li>Marsha Reid, Community Member</li>
+<li>Tamara Wood, La Trobe University</li>
+<li>Kate Leaney	Community Partnerships & Communications Manager, Welcoming Australia</li>
+<li>Elsa Raubenheimer,	Democratic Learning Services</li>
+<li>Edie McAsey, Law Graduate</li>
+<li>Sarah Davidson, Community Member</li>
+<li>An Jiang, Lawyer</li>
 </ol>
