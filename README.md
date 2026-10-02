@@ -902,5 +902,4 @@ You do not stand alone.
 <li>Fairlie Hunter, Head of Trauma Consulting Service</li>
 <li>Sonya Redfern, Community Member</li>
 <li>Emma Woodley, Community Member</li>
-</ul>
 </ol>
