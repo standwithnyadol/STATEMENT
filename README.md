@@ -864,4 +864,43 @@ You do not stand alone.
 <li>Edie McAsey, Law Graduate</li>
 <li>Sarah Davidson, Community Member</li>
 <li>An Jiang, Lawyer</li>
+<li>Ricci Ulrike Bartels OAM, Addi Road community member</li>
+<li>Annabella Gnecchi Ruscone, Once Upon a Tree Pty Ltd</li>
+<li>Linley Lord, Community Member</li>
+<li>Simon Da Silva, Solicitor</li>
+<li>Dani Thevanesan-Ravikumaran, Lawyer</li>
+<li>Amanda Shepherd, Community Member</li>
+<li>Bryan Thomson-DiPalma, Community Member</li>
+<li>Kathy Moyo, Community Member</li>
+<li>Greg Brown, Medical sales</li>
+<li>Hyrum Hapi, Community Member</li>
+<li>Chewe Nkole, Community Member</li>
+<li>Donna James, Retired conscious voter</li>
+<li>Regina Meyer, Director of Ethics / ALAïK</li>
+<li>Rhonda Shaw, Community Member</li>
+<li>Rachell Fisher, Community Member</li>
+<li>Reba Dador, Community Member</li>
+<li>Tania Groba, Participation and Belonging Lead - Swinburne Uni (new role)</li>
+<li>Alanna Kamp, Western Sydney University</li>
+<li>Louise Roberts, English and Drama Teacher</li>
+<li>Margaret Geary, Artist</li>
+<li>Prisca K, Community Member, Healthcare professional</li>
+<li>Briget Kelly, Community Member</li>
+<li>Kathleen Openshaw, Academic</li>
+<li>Charmaine Hunzwi, Founder, Safe Space Media</li>
+<li>Katie Christensen, Community Member</li>
+<li>Cristin State, Community Member</li>
+<li>Emerance Ishimwe, Community Member</li>
+<li>Russell Byl, Christian in the progressive Anglican tradition, Vice President Emerald branch Australian Labor Party</li>
+<li>Kerry Begg-Boyle, Community Member</li>
+<li>Kath Hall, Director</li>
+<li>Kholisile Dhliwayo, Architect</li>
+<li>Jane Lewis, British Australian AntiRacism trainer</li>
+<li>Helen Bergen, Community Member</li>
+<li>Elsa Howarth, Community Member</li>
+<li>Joy Cooper, Generational Australian resident</li>
+<li>Fairlie Hunter, Head of Trauma Consulting Service</li>
+<li>Sonya Redfern, Community Member</li>
+<li>Emma Woodley, Community Member</li>
+</ul>
 </ol>
