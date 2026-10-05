@@ -902,4 +902,56 @@ You do not stand alone.
 <li>Fairlie Hunter, Head of Trauma Consulting Service</li>
 <li>Sonya Redfern, Community Member</li>
 <li>Emma Woodley, Community Member</li>
+<li>Marie, Citizen of the world</li>
+<li>Claudine Sullivan, Retired Public Servant</li>
+<li>Cheryl Udo, Teacher</li>
+<li>Nicole Poulish, Community Member</li>
+<li>Norva House, Retired Accountant</li>
+<li>Moses Qionibaravi, Community Member</li>
+<li>Bree Adkins, Community Member</li>
+<li>Rebecca Selvarajah-Hutchinson, Founder and Treasurer</li>
+<li>Kirsten Zemke, University of Auckland, Aotearoa (New Zealand)</li>
+<li>Rebecca Rey, Research translation</li>
+<li>Jasmin Sheppard, Community Member</li>
+<li>Andrea Zonnekus, Community Member</li>
+<li>Adele James, Australian Citizen</li>
+<li>Deborah Kyle, Department of Communities</li>
+<li>Laura Turton-Peet, Community Member</li>
+<li>Loretta Fighera, English as a Second Language Tutor</li>
+<li>Lauren Holst, Community Member</li>
+<li>Bronwyn L, Community Member</li>
+<li>Lynley Thomas Varcoe, Varcoe Consulting</li>
+<li>Ceese Fainuu, Community Member</li>
+<li>Ranvir Gardner, Senior Change Leader</li>
+<li>Rosa Ochoa, Former TAFE teacher</li>
+<li>Francine Sculli, River Nile School</li>
+<li>Chiza Westcarr, Community Member</li>
+<li>Chloe Hahle, Community Member</li>
+<li>Ann Kelly, Community Member</li>
+<li>Robyn Connor, Concerned community member</li>
+<li>Kuda Ndlovu, President - United in Diversity WA Inc.</li>
+<li>Karyn Pokoi, Head of Department</li>
+<li>Alexandra Bell, Community Hero</li>
+<li>Sophia Cosmas, Mother. Carer. Freelance artist.</li>
+<li>Zita Arends, Founder of usic.</li>
+<li>Yen Kuan Gan, Chevening Scholar 2009-2010</li>
+<li>Richard Guobadia, Church member</li>
+<li>Monica Kidd, Community Member</li>
+<li>Naomi Howells, Anthropologist</li>
+<li>Juliet, Mental health Social worker</li>
+<li>Rowland Mosbergen, Founder Practical Diversity and Inclusion</li>
+<li>Mark Vincent, Concerned Community Member</li>
+<li>Tabitha Zachariah, Community Member</li>
+<li>Martin Roberts, Community Member</li>
+<li>Julie Kun, Director Julie Kun Consulting</li>
+<li>Julian Browne, Psychologist</li>
+<li>Helen Rodd, Hot House Community Projects</li>
+<li>Felicity Tan, Community Member</li>
+<li>Tansy Good, Community Member</li>
+<li>Tania Maina, Community Member</li>
+<li>Fiammetta Stefani, Sec. Teacher</li>
+<li>Charmaine Saunders, Community Member</li>
+<li>Jenny Hall, Community Member</li>
+<li>Patricia Porter, Office Manager</li>
+<li>Mitchell, Community Member</li>
 </ol>
