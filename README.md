@@ -952,6 +952,4 @@ You do not stand alone.
 <li>Fiammetta Stefani, Sec. Teacher</li>
 <li>Charmaine Saunders, Community Member</li>
 <li>Jenny Hall, Community Member</li>
-<li>Patricia Porter, Office Manager</li>
-<li>Mitchell, Community Member</li>
 </ol>
