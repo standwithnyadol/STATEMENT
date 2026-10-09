@@ -966,6 +966,7 @@ You do not stand alone.
 <li>Barbara Charan, Human Rights Advocate</li>
 <li>Stephen Pearce, Community Member</li>
 <li>Irene Manitta, Community Member</li>
+<li>Okenze, Blockchain Technology Concept Developer 
 <li>Erin Hendry, Community Member, P&C Manager</li>
 <li>Sonal Paprocki, Community Member</li>
 <li>Gregory Brown, Community Member</li>
@@ -1016,12 +1017,12 @@ You do not stand alone.
 <li>Lara Gerrand, Community Member</li>
 <li>Alicia Page, Community Member</li>
 <li>Gordon Renouf, Community Member</li>
-<li>Sarah Boot, Community Member</li>
+<li>Sarah Boot, Community Member, MPH</li>
 <li>Jaleesa Maher, Community Member</li>
 <li>Abby Page, Community Member</li>
 <li>Judith Smith, Retired</li>
 <li>Andrew Wright, Teacher and concerned onlooker</li>
+<li>Susan Susan, Concerned 'white' Australian
 <li>Phillip Crane, Medical Doctor</li>
 </ul>
- 
 </ol>
