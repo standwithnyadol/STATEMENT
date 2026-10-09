@@ -952,4 +952,76 @@ You do not stand alone.
 <li>Fiammetta Stefani, Sec. Teacher</li>
 <li>Charmaine Saunders, Community Member</li>
 <li>Jenny Hall, Community Member</li>
+<li>Elinor Pryde, Lawyer</li>
+<li>Emmanuel Ngabo, Community Member</li>
+<li>Joan, Community Member</li>
+<li>Julie Easo, Community Member</li>
+<li>Sandra Shrubb, Community Member</li>
+<li>Dr Kathleen Owen, Environmental Advocate</li>
+<li>Sue Thomas, Retired</li>
+<li>Wendy Joy Morrissey, Community Member</li>
+<li>Jen Couch, Senior lecturer ACU</li>
+<li>Victoria Wilson, Melbourne resident</li>
+<li>Sue Pearce, Community Member</li>
+<li>Barbara Charan, Human Rights Advocate</li>
+<li>Stephen Pearce, Community Member</li>
+<li>Irene Manitta, Community Member</li>
+<li>Erin Hendry, Community Member, P&C Manager</li>
+<li>Sonal Paprocki, Community Member</li>
+<li>Gregory Brown, Community Member</li>
+<li>Anna-Maria Musumeci, Community Member</li>
+<li>Graeme Browning, Community Member</li>
+<li>Elle Credlin, Community Member</li>
+<li>Joseph Gili, Community Member</li>
+<li>Emma Sherwood, Community Member</li>
+<li>Jayne Walton, Community Member</li>
+<li>Debra Fischer, Teacher</li>
+<li>Andrew Garton, Filmmaker, Educator</li>
+<li>Iain Butterworth, Community Member</li>
+<li>Rebecca Harris, Health Equity Researcher</li>
+<li>Kevin O’Rafferty, Australian born in England, here 55 years, democratic socialist</li>
+<li>Wendy Allen, Founder</li>
+<li>Tamara Kwarteng, Board Member, Multicultural Centre for Women’s Health</li>
+<li>Zoe Walker, Community Member</li>
+<li>Abdirahman Muhumed, Community Member</li>
+<li>Vicky Khetre, Immigration Professional</li>
+<li>N Sejoe, Community Member</li>
+<li>Louise Brand, Retired</li>
+<li>Annick, Community Arts / Advocacy</li>
+<li>Kylie Smith, Community Member</li>
+<li>Cherlyn Chia, Inclusion & Diversity Practitioner</li>
+<li>Trish Newstead, Community Member</li>
+<li>Al Turley, Community Member</li>
+<li>Natasha Reddrop, Community Member</li>
+<li>Ayfer Akalin, Retired</li>
+<li>Jane Willey, Community Member, Teacher</li>
+<li>Sally Johns, Community Member</li>
+<li>Dr Liz Evans, Writer/Educator/Researcher</li>
+<li>Danica Knezevic, Artist/carer</li>
+<li>Virginia Kerr, Community Member</li>
+<li>Dr Berhan Ahmed, Africause Youth & Community Services Inc</li>
+<li>Tee Hethorn, Community Member</li>
+<li>Terri Spencer, Community Member</li>
+<li>Julie Merritt, Community Member</li>
+<li>Catherine Harford, Artist, Poet, Writer</li>
+<li>Dr. Patricia Kessy, Community Member</li>
+<li>Margie Rhead, Community Member</li>
+<li>Jenneth Barry, Community Member</li>
+<li>Dechen Dolker Tenzing, Community Member</li>
+<li>Liz Ralph, Community Member</li>
+<li>Rowan White, Community Member</li>
+<li>Carl Gopalkrishnan, Artist and Writer</li>
+<li>Laura Coburn, Community Member</li>
+<li>Jessica Rodriguez, Community Member</li>
+<li>Lara Gerrand, Community Member</li>
+<li>Alicia Page, Community Member</li>
+<li>Gordon Renouf, Community Member</li>
+<li>Sarah Boot, Community Member</li>
+<li>Jaleesa Maher, Community Member</li>
+<li>Abby Page, Community Member</li>
+<li>Judith Smith, Retired</li>
+<li>Andrew Wright, Teacher and concerned onlooker</li>
+<li>Phillip Crane, Medical Doctor</li>
+</ul>
+ 
 </ol>
