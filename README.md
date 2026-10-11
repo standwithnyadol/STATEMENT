@@ -1024,5 +1024,20 @@ You do not stand alone.
 <li>Andrew Wright, Teacher and concerned onlooker</li>
 <li>Susan Susan, Concerned 'white' Australian
 <li>Phillip Crane, Medical Doctor</li>
+<li>DeNuun, Community Member</li>
+<li>Patrea Ryan, Community Member</li>
+<li>Patricia Anne Ogilvie, Community Member</li>
+<li>Joanna Cruickshank, Associate Professor, Deakin University</li>
+<li>Rhianna Stewart, Community Services</li>
+<li>Zoe Virginia Fajcsi, Supporter</li>
+<li>Jason Lane-Scutt, Community Member</li>
+<li>Lual Garang, South Sudanese Community member in Western Australia</li>
+<li>Aluel Atem, Programmes Advisor/Ma’Mara Sakit Village</li>
+<li>Aduk Deng, Community Member</li>
+<li>Lesley Forbes, Retired Teacher</li>
+<li>Patrick Wilson, Program Coordinator at Youth Services</li>
+<li>Paul Costin, Retiree</li>
+<li>Freya Higgins-Desbiolles, Academic</li>
+<li>Arnold Zable, Author</li>
 </ul>
 </ol>
