@@ -1039,5 +1039,9 @@ You do not stand alone.
 <li>Paul Costin, Retiree</li>
 <li>Freya Higgins-Desbiolles, Academic</li>
 <li>Arnold Zable, Author</li>
+<li>Craig Dunn, Workplace/Employee Relations Specialist</li>
+<li>Mary Kenny, Academic</li>
+<li>Tina Flax, Self made black woman in America</li>
+<li>Ajok Marial, Community Member</li>
 </ul>
-</ol>
+
