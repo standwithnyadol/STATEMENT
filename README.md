@@ -614,7 +614,6 @@ You do not stand alone.
 <li>Fleur Taylor-Lumb, Community Member</li>
 <li>Emma Smith, Community Member</li>
 <li>Celia Karpfen, Community Member</li>
-<li>Adele Rice AM, Educator, refugee advocate, community member</li>
 <li>Brigit Anderson, Community Member</li>
 <li>Davin Kerr, Community Member</li>
 <li>Rosie McDonell, Community Member</li>
@@ -689,7 +688,6 @@ You do not stand alone.
 <li>Hannah George, Community Member</li>
 <li>Grace Achieng, Community Member</li>
 <li>Jackie Dickenson, Community Member</li>
-<li>Andrew Garton, Filmmaker, Media and Communications Lecturer</li>
 <li>Francesco Ricatti, Associate Professor, The Australian National University</li>
 <li>Hester Wright, Community Member</li>
 <li>Mark Little, Community Member</li>
@@ -872,7 +870,7 @@ You do not stand alone.
 <li>Amanda Shepherd, Community Member</li>
 <li>Bryan Thomson-DiPalma, Community Member</li>
 <li>Kathy Moyo, Community Member</li>
-<li>Greg Brown, Medical sales</li>
+<li>Greg Brown, Community Member</li>
 <li>Hyrum Hapi, Community Member</li>
 <li>Chewe Nkole, Community Member</li>
 <li>Donna James, Retired conscious voter</li>
