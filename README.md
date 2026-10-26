@@ -1043,5 +1043,23 @@ You do not stand alone.
 <li>Mary Kenny, Academic</li>
 <li>Tina Flax, Self made black woman in America</li>
 <li>Ajok Marial, Community Member</li>
+<li>Dr Anisa Buckley, Western Sydney University</li>
+<li>Nisha Thapliyal, Academic</li>
+<li>Akol Ashwill, Youth Mentor</li>
+<li>Nipuni Fernando, Community Member/Social Worker</li>
+<li>Nikkola, Community Member</li>
+<li>Deng chien, Community Member</li>
+<li>Najmeh Hassanli, Academic</li>
+<li>Abuk Kawac, Student</li>
+<li>Nicole E Abadee, Journalist</li>
+<li>Nyayioni Lual, Community Member</li>
+<li>Marguerite Grey, Community Member</li>
+<li>Josie B, Community Member</li>
+<li>Budi Sudarto, Ananda Training &amp; Consultancy</li>
+<li>Lou Maile, Community Member Ally</li>
+<li>Stephanie Cunio, Founder, Jewish Women 4 Peace</li>
+<li>Michelle Higelin, CEO, ActionAid Australia</li>
+<li>Yvonne Lay, Community Member</li>
+<li>Stella Scudamore, Community Member</li>
+<li>Emma, Community Member</li>
 </ul>
-
