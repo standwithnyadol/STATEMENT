@@ -129,7 +129,6 @@ You do not stand alone.
 <li>Oliver Khoury, Community Member</li>
 <li>Karen Manskry, Community Member</li>
 <li>Christine Bupe Simwaba Batti, Community Member</li>
-<li>Francine Sculli, Community Engagement</li>
 <li>Alan Ward, Community Member</li>
 <li>Sam Edis, Registered Nurse/Midwife</li>
 <li>Nyangak (Lizzy) Kuoth, Community Member</li>
@@ -863,7 +862,6 @@ You do not stand alone.
 <li>Sarah Davidson, Community Member</li>
 <li>An Jiang, Lawyer</li>
 <li>Ricci Ulrike Bartels OAM, Addi Road community member</li>
-<li>Annabella Gnecchi Ruscone, Once Upon a Tree Pty Ltd</li>
 <li>Linley Lord, Community Member</li>
 <li>Simon Da Silva, Solicitor</li>
 <li>Dani Thevanesan-Ravikumaran, Lawyer</li>
@@ -1028,20 +1026,17 @@ You do not stand alone.
 <li>Joanna Cruickshank, Associate Professor, Deakin University</li>
 <li>Rhianna Stewart, Community Services</li>
 <li>Zoe Virginia Fajcsi, Supporter</li>
-<li>Jason Lane-Scutt, Community Member</li>
 <li>Lual Garang, South Sudanese Community member in Western Australia</li>
 <li>Aluel Atem, Programmes Advisor/Ma’Mara Sakit Village</li>
 <li>Aduk Deng, Community Member</li>
 <li>Lesley Forbes, Retired Teacher</li>
 <li>Patrick Wilson, Program Coordinator at Youth Services</li>
 <li>Paul Costin, Retiree</li>
-<li>Freya Higgins-Desbiolles, Academic</li>
 <li>Arnold Zable, Author</li>
 <li>Craig Dunn, Workplace/Employee Relations Specialist</li>
 <li>Mary Kenny, Academic</li>
 <li>Tina Flax, Self made black woman in America</li>
 <li>Ajok Marial, Community Member</li>
-<li>Dr Anisa Buckley, Western Sydney University</li>
 <li>Nisha Thapliyal, Academic</li>
 <li>Akol Ashwill, Youth Mentor</li>
 <li>Nipuni Fernando, Community Member/Social Worker</li>
