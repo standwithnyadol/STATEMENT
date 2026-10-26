@@ -868,7 +868,6 @@ You do not stand alone.
 <li>Amanda Shepherd, Community Member</li>
 <li>Bryan Thomson-DiPalma, Community Member</li>
 <li>Kathy Moyo, Community Member</li>
-<li>Greg Brown, Community Member</li>
 <li>Hyrum Hapi, Community Member</li>
 <li>Chewe Nkole, Community Member</li>
 <li>Donna James, Retired conscious voter</li>
